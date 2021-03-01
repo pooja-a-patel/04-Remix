@@ -53,3 +53,12 @@ Requirements
 - Concise description and screenshot of your visualization.
 - Description of the technical achievements you attempted with this visualization.
 - Description of the design achievements you attempted with this visualization.
+
+Extra Links
+---
+
+- https://observablehq.com/@philippkoytek/d3-part-3-brushing-and-linking
+- https://bl.ocks.org/john-guerra/raw/2c00b2d675a6bf1c84a7b140f4536b0d/
+- https://github.com/d3/d3-brush
+- https://observablehq.com/collection/@d3/d3-brush
+- https://observablehq.com/@d3/focus-context?collection=@d3/d3-brush
