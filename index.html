@@ -15,6 +15,16 @@
         CO<sub>2</sub> Emissions from 1990-2011 | Pooja Patel | 04-Remix
       </center>
     </h1>
+    <p style="font-size: 24px;">
+     <center> For this assignment I decided to remix a visualization about CO<sub>2</sub> emissions from The World Bank. 
+      The original visualizatons included a bar chart and line chart of global data and then a map. 
+      For my remix, the data required some re-formatting and I chose to shorten the dataset to only include years from 1990-2011 (the years with the most filled in data). 
+      The values in the dataset include the Country, Country Code, Continent, Region, Year, Emissions Per Capita, and Emissions (thousand metric tons).</center> 
+      <br><br>
+      Below is a remix of the map that utilizes a different color encoding and scale. To use the map visualization, first select the year that you wish to look at using the slider and then hover over the
+      countries to see the emissions data relevant to the country in the selected year. Below the map are two linked visualization, a donut chart and bar chart.
+      <br><br>
+    </p>
     <div
       class="d1"
       style="width: 250px; float:left; height:25px; background:#648FFF;color:white;"
@@ -98,6 +108,18 @@
       </div>
 
       <div class="chart-container">
+    <p>
+      Below are the two linked visualizations, a donut chart and bar chart. 
+      <br>
+      The donut chart is linked to the year that was selected using the slider above. To use the donut
+      chart you can select a year and then hover over the different slices to get data on each country. The slices in the pie chart are encoded by color based on the continent the 
+      country belonngs to. Note: North America and South America were combined into 'Americas'.
+      <br><br>
+      The bar chart is linked to the map. To use the bar chart, first click on a country on the map.
+      The country that was clicked on will then have the emission data of that country from 1990-2011 displayed on the bar chart.
+      If the country did not have any data available for that year then, there will be no bar present for that year.
+      <br><br>
+    </p>
         <svg id="pie"></svg>
         <svg id="bar"></svg>
       </div>
