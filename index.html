@@ -12,52 +12,69 @@
   <body>
     <h1>
       <center>
-        CO<sub>2</sub> Emissions from 1990-2011 | Pooja Patel | 04-Remix
+        CO<sub>2</sub> Emissions from 1990-2010 | Pooja Patel | 04-Remix
       </center>
     </h1>
     <p style="font-size: 24px;">
-     <center> For this assignment I decided to remix a visualization about CO<sub>2</sub> emissions from The World Bank. 
-      The original visualizatons included a bar chart and line chart of global data and then a map. 
-      For my remix, the data required some re-formatting and I chose to shorten the dataset to only include years from 1990-2011 (the years with the most filled in data). 
-      The values in the dataset include the Country, Country Code, Continent, Region, Year, Emissions Per Capita, and Emissions (thousand metric tons).</center> 
-      <br><br>
-      Below is a remix of the map that utilizes a different color encoding and scale. To use the map visualization, first select the year that you wish to look at using the slider and then hover over the
-      countries to see the emissions data relevant to the country in the selected year. Below the map are two linked visualization, a donut chart and bar chart.
-      <br><br>
+      <center>
+        For this assignment I decided to remix a visualization about CO<sub
+          >2</sub
+        >
+        emissions from The World Bank. The original visualizatons included a bar
+        chart and line chart of global data and then a map. For my remix, the
+        data required some re-formatting and I chose to shorten the dataset to
+        only include years from 1990-2010 (the years with the most filled in
+        data and to work with a smaller dataset). The values in the dataset
+        include the Country, Country Code, Continent, Region, Year, Emissions
+        Per Capita, and Emissions (thousand metric tons).
+      </center>
+      <br />
+      Below is a remix of the map that utilizes a different color encoding and
+      scale. To use the map visualization, first select the year that you wish
+      to look at using the slider and then hover over the countries to see the
+      emissions data relevant to the country in the selected year. To the right
+      of the map is the linked visualization, a donut chart.
     </p>
+    <p>
+      <br />
+      The donut chart is linked to the year that was selected using the slider
+      above. To use the donut chart you can select a year and then hover over
+      the different slices to get data on each country. The slices in the pie
+      chart are encoded by color based on the continent the country belonngs to.
+      Note: North America and South America were combined into 'Americas'.
+    </p>
+    <input type="radio" name="data-type" value="emissions" checked hidden />
     <div
       class="d1"
-      style="width: 250px; float:left; height:25px; background:#648FFF;color:white;"
+      style="width: 150px; float:left; height:25px; background:#648FFF;color:white;"
     >
       <center>&lt;2.5e5</center>
     </div>
     <div
       class="d2"
-      style="width: 250px; float:left; height:25px; background:#DC267F;color:white;"
+      style="width: 150px; float:left; height:25px; background:#DC267F;color:white;"
     >
       <center>2.5e5-1e6</center>
     </div>
     <div
       class="d3"
-      style="width: 250px; float:left; height:25px; background:#FE6100;color:white;"
+      style="width: 150px; float:left; height:25px; background:#FE6100;color:white;"
     >
       <center>1e6-5e6</center>
     </div>
     <div
       class="d4"
-      style="width: 250px; float:left; height:25px; background:#FFB000;color:white;"
+      style="width: 150px; float:left; height:25px; background:#FFB000;color:white;"
     >
       <center>&gt;5e6</center>
     </div>
     <div
       class="d5"
-      style="width: 250px; float:left; height:25px; background:lightgrey;color:white;"
+      style="width: 150px; float:left; height:25px; background:lightgrey;color:white;"
     >
       <center>n/a</center>
     </div>
-    <h6>
-      <br />
-    </h6>
+
     <div
       class="c1"
       style="width: 100px; float:left; height:25px; background:#F0E442;color:white;"
@@ -92,36 +109,17 @@
     <h6>
       <br />
     </h6>
-    <div id="nav">
-      <p>
-        <br />
-        <input type="radio" name="data-type" value="emissions" checked hidden />
-      </p>
-    </div>
+    <p>
+      Year = <span id="year-val"></span>
+      <input id="year" type="range" step="1" />
+    </p>
     <section class="container">
-      <p>
-        Year = <span id="year-val"></span>
-        <input id="year" type="range" step="1" />
-      </p>
       <div class="chart-container">
         <svg id="map"></svg>
       </div>
 
       <div class="chart-container">
-    <p>
-      Below are the two linked visualizations, a donut chart and bar chart. 
-      <br>
-      The donut chart is linked to the year that was selected using the slider above. To use the donut
-      chart you can select a year and then hover over the different slices to get data on each country. The slices in the pie chart are encoded by color based on the continent the 
-      country belonngs to. Note: North America and South America were combined into 'Americas'.
-      <br><br>
-      The bar chart is linked to the map. To use the bar chart, first click on a country on the map.
-      The country that was clicked on will then have the emission data of that country from 1990-2011 displayed on the bar chart.
-      If the country did not have any data available for that year then, there will be no bar present for that year.
-      <br><br>
-    </p>
         <svg id="pie"></svg>
-        <svg id="bar"></svg>
       </div>
     </section>
     <div class="tooltip"></div>
@@ -203,120 +201,13 @@
           .select(".pie-title")
           .attr("x", 150)
           .attr("y", 20)
-          .text("Country emissions in  " + currentYear);
-      }
-
-      // draw bar
-      function createBar(width, height) {
-        var bar = d3
-          .select("#bar")
-          .attr("width", 500)
-          .attr("height", 300);
-
-        bar.append("g").classed("x-axis", true);
-
-        bar.append("g").classed("y-axis", true);
-
-        bar
-          .append("text")
-          .attr("transform", "rotate(-90)")
-          .attr("x", -height / 2)
-          .attr("dy", "1em")
-          .style("text-anchor", "middle")
-          .style("font-size", "1em")
-          .classed("y-axis-label", true);
-
-        bar
-          .append("text")
-          .attr("x", width / 2)
-          .attr("y", "1em")
-          .attr("font-size", "1.5em")
-          .style("text-anchor", "middle")
-          .classed("bar-title", true);
-      }
-
-      function highlightBars(year) {
-        d3.select("#bar")
-          .selectAll("rect")
-          .attr("fill", d => (d.year === year ? "#648FFF" : "#648FFF"));
-      }
-
-      function drawBar(data, dataType, country) {
-        var bar = d3.select("#bar");
-        var padding = {
-          top: 40,
-          right: 0,
-          bottom: 30,
-          left: 110
-        };
-        var barPadding = 1;
-        var width = +bar.attr("width");
-        var height = +bar.attr("height");
-        var countryData = data
-          .filter(d => d.country === country)
-          .sort((a, b) => a.year - b.year);
-
-        var xScale = d3
-          .scaleLinear()
-          .domain(d3.extent(data, d => d.year))
-          .range([padding.left, width - padding.right]);
-
-        var yScale = d3
-          .scaleLinear()
-          .domain([0, d3.max(countryData, d => d[dataType])])
-          .range([height - padding.bottom, padding.top]);
-
-        var barWidth = xScale(xScale.domain()[0] + 1) - xScale.range()[0];
-
-        var xAxis = d3.axisBottom(xScale).tickFormat(d3.format(".0f"));
-
-        d3.select(".x-axis")
-          .attr("transform", "translate(0, " + (height - padding.bottom) + ")")
-          .call(xAxis);
-
-        var yAxis = d3.axisLeft(yScale);
-
-        d3.select(".y-axis")
-          .attr(
-            "transform",
-            "translate(" + (padding.left - barWidth / 2) + ",0)"
-          )
-          .transition()
-          .call(yAxis);
-
-        var barTitle = country ? "" + country : " ";
-
-        d3.select(".bar-title").text(barTitle);
-
-        var t = d3.transition();
-
-        var update = bar.selectAll(".bar").data(countryData);
-
-        update
-          .exit()
-          .transition(t)
-          .attr("y", height - padding.bottom)
-          .attr("height", 0)
-          .remove();
-
-        update
-          .enter()
-          .append("rect")
-          .classed("bar", true)
-          .attr("y", height - padding.bottom)
-          .attr("height", 0)
-          .merge(update)
-          .attr("x", d => (xScale(d.year) + xScale(d.year - 1)) / 2)
-          .attr("width", barWidth - barPadding)
-          .transition(t)
-          .attr("y", d => yScale(d[dataType]))
-          .attr("height", d => height - padding.bottom - yScale(d[dataType]));
+          .text("" + currentYear);
       }
 
       // draw map
       function createMap(width, height) {
         d3.select("#map")
-          .attr("width", 700)
+          .attr("width", 800)
           .attr("height", 500)
           .append("text")
           .attr("x", width / 2)
@@ -331,7 +222,7 @@
 
         var projection = d3
           .geoMercator()
-          .scale(120)
+          .scale(100)
           .translate([+map.attr("width") / 2, +map.attr("height") / 1.4]);
 
         var path = d3.geoPath().projection(projection);
@@ -373,8 +264,6 @@
             var countryName = isActive
               ? ""
               : country.data()[0].properties.country;
-            drawBar(climateData, currentDataType, countryName);
-            highlightBars(+d3.select("#year").property("value"));
             d3.selectAll(".country").classed("active", false);
             country.classed("active", !isActive);
           })
@@ -419,11 +308,9 @@
           var height = 300;
 
           createMap(width, width * 0.9);
-          createBar(width, height);
           createPie(width, height);
           drawMap(geoData, data, currentYear, currentDataType);
           drawPie(data, currentYear);
-          drawBar(data, currentDataType, "");
 
           d3.select("#year")
             .property("min", currentYear)
@@ -433,7 +320,6 @@
               currentYear = +d3.event.target.value;
               drawMap(geoData, data, currentYear, currentDataType);
               drawPie(data, currentYear);
-              highlightBars(currentYear);
             });
 
           d3.selectAll('input[name="data-type"]').on("change", () => {
@@ -441,7 +327,6 @@
             var country = active ? active.properties.country : "";
             currentDataType = d3.event.target.value;
             drawMap(geoData, data, currentYear, currentDataType);
-            drawBar(data, currentDataType, country);
           });
 
           d3.selectAll("svg").on("mousemove touchmove", updateTooltip);
