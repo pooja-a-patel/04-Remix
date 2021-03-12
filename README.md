@@ -14,7 +14,7 @@
 
 ## Critique and Redesign
 For this assignment I decided to remix a visualization about CO<sub>2</sub> emissions from [The World Bank](https://data.worldbank.org/indicator/EN.ATM.CO2E.PC?end=2016&name_desc=true&start=1960&view=chart&year=1977).
-The data required some re-formatting and I chose to shorten the dataset to only include years from 1990-2011 (the years  with the most fileld in data). The values in the dataset include the Country, Country Code, Continent, Region, Year, Emissions Per Capita,and Emissions (thousand metric tons).
+The data required some re-formatting and I chose to shorten the dataset to only include years from 1990-2011 (the years  with the most filled in data). The values in the dataset include the Country, Country Code, Continent, Region, Year, Emissions Per Capita,and Emissions (thousand metric tons).
 
 The website includes three chart types (Line, Bar, and Map) to visualize the emissions data.
 
@@ -47,7 +47,7 @@ Screenshots of the remixed and linked view visualizations can be seen below.
 |![map](https://github.com/pooja-a-patel/04-Remix/blob/main/img/Map.PNG) |![donut](https://github.com/pooja-a-patel/04-Remix/blob/main/img/Donut.PNG) |![bar](https://github.com/pooja-a-patel/04-Remix/blob/main/img/Bar.PNG) |
 
 ### Technical Achievements
-- **On-Hover Stats**: When a user hovers over a country, specific stats relevant to that country in the given year will apppear. This was done by using tooltip.
+- **On-Hover Stats**: When a user hovers over a country, specific stats relevant to that country in the given year will apppear. The stats include the year, total emissions, and country name. This was done by using tooltip.
 ### Design Achievements
 - **Accessible Color Scale for Choropleth Map**: I utilized two color palettes and tested them with diffrent color blindness traits to ensure that the colors used in thr chart are accessible.  
 
