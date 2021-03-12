@@ -48,9 +48,10 @@ read the chart with over 100 bars. I then decided to go forward with bar charts 
 My redesign would use a different color scale, one that is accessible. Also, when a user hovers over on a country, the stats specific to that country will appear.
 ### Technical Achievements
 - **On-Hover Stats**: When a user hovers over a country, specific stats relevant to that country in the given year will apppear. The stats include the year, total emissions, and country name. This was done by using tooltip.
+- **Filter the Emissions Data**: I decided to filter the emissions data by continent in the pie chart. Thus, each country represented in the pie chart is color coded according to the continent the country belongs to.
 ### Design Achievements
 - **Accessible Color Scale for Choropleth Map**: I utilized two color palettes and tested them with diffrent color blindness traits to ensure that the colors used in thr chart are accessible.  
-
+- **CSS Styling**: I utilized CSS to style the webpage and position the various elements neatly.
 ## Resources
 [Basic Choropleth Map D3](https://www.d3-graph-gallery.com/graph/choropleth_basic.html)  
 [Simple D3 Bar Chart](https://bl.ocks.org/d3noob/8952219)  
