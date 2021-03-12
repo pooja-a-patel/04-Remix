@@ -12,7 +12,7 @@
   <body>
     <h1>
       <center>
-        CO<sub>2</sub> Emissions from 1990-2010 | Pooja Patel | 04-Remix
+        Emissions from 1990-2010 | Pooja Patel | 04-Remix
       </center>
     </h1>
     <p style="font-size: 24px;">
@@ -23,10 +23,9 @@
         emissions from The World Bank. The original visualizatons included a bar
         chart and line chart of global data and then a map. For my remix, the
         data required some re-formatting and I chose to shorten the dataset to
-        only include years from 1990-2010 (the years with the most filled in
-        data and to work with a smaller dataset). The values in the dataset
-        include the Country, Country Code, Continent, Region, Year, Emissions
-        Per Capita, and Emissions (thousand metric tons).
+        work with a smaller set of data. The values in the dataset include the
+        Country, Country Code, Continent, Region, Year, Emissions Per Capita,
+        and Emissions (thousand metric tons).
       </center>
       <br />
       Below is a remix of the map that utilizes a different color encoding and
@@ -38,7 +37,7 @@
     <p>
       <br />
       The donut chart is linked to the year that was selected using the slider
-      above. To use the donut chart you can select a year and then hover over
+      below. To use the donut chart you can select a year and then hover over
       the different slices to get data on each country. The slices in the pie
       chart are encoded by color based on the continent the country belonngs to.
       Note: North America and South America were combined into 'Americas'.
@@ -126,7 +125,6 @@
     <script src="https://d3js.org/d3.v4.js"></script>
     <script src="https://unpkg.com/topojson@3"></script>
     <script>
-      // draw pie
       function createPie(width, height) {
         var pie = d3
           .select("#pie")
@@ -191,30 +189,21 @@
           .enter()
           .append("path")
           .classed("arc", true)
-          .attr("stroke", "#240f07")
+          .attr("stroke", "black")
           .attr("stroke-width", "0.25px")
           .merge(update)
           .attr("fill", d => colorScale(d.data.continent))
           .attr("d", path);
 
-        pie
-          .select(".pie-title")
-          .attr("x", 150)
-          .attr("y", 20)
-          .text("" + currentYear);
+        pie.select(".pie-title").text("" + currentYear);
       }
 
-      // draw map
       function createMap(width, height) {
         d3.select("#map")
           .attr("width", 800)
           .attr("height", 500)
           .append("text")
-          .attr("x", width / 2)
-          .attr("y", "1em")
-          .attr("font-size", "1.5em")
-          .style("text-anchor", "middle")
-          .classed("map-title", true);
+          .attr("x", width / 2);
       }
 
       function drawMap(geoData, climateData, year, dataType) {
@@ -345,9 +334,7 @@
             if (isCountry) data = tgt.data()[0].properties;
             if (isArc) {
               data = tgt.data()[0].data;
-              percentage = `<p>Percentage of total: ${getPercentage(
-                tgt.data()[0]
-              )}</p>`;
+              percentage = `<p>${getPercentage(tgt.data()[0])}</p>`;
             }
             if (isBar) data = tgt.data()[0];
             tooltip
@@ -363,11 +350,11 @@
             if (data) {
               var dataValue = data[dataType]
                 ? data[dataType].toLocaleString() + " " + units
-                : "Data Not Available";
+                : "N/A";
               tooltip.html(`
-              <p>Country: ${data.country}</p>
-              <p>${formatDataType(dataType)}: ${dataValue}</p>
-              <p>Year: ${data.year || d3.select("#year").property("value")}</p>
+              <p>${data.country}</p>
+              <p>${dataValue}</p>
+              <p>${data.year || d3.select("#year").property("value")}</p>
               ${percentage}
             `);
             }
