@@ -1,5 +1,4 @@
 Country,Country Code,Continent,Region,Year,Emissions Per Capita,Emissions
-Afghanistan,004,Asia,Southern Asia,2011,0.420932655980935,12251.447
 Afghanistan,004,Asia,Southern Asia,2010,0.298289530193382,8470.77
 Afghanistan,004,Asia,Southern Asia,2009,0.244570891628528,6776.616
 Afghanistan,004,Asia,Southern Asia,2008,0.156001008723042,4217.05
@@ -21,7 +20,6 @@ Afghanistan,004,Asia,Southern Asia,1993,0.0906158517198149,1375.125
 Afghanistan,004,Asia,Southern Asia,1992,0.103278005102276,1426.463
 Afghanistan,004,Asia,Southern Asia,1991,0.197712614839642,2493.56
 Afghanistan,004,Asia,Southern Asia,1990,0.228187363382394,2676.91
-Albania,008,Europe,Southern Europe,2011,1.48010912262757,4668.091
 Albania,008,Europe,Southern Europe,2010,1.40154526318329,4415.068
 Albania,008,Europe,Southern Europe,2009,1.42435559956017,4488.408
 Albania,008,Europe,Southern Europe,2008,1.47534632111431,4657.09
@@ -43,7 +41,6 @@ Albania,008,Europe,Southern Europe,1993,0.685695348347223,2343.213
 Albania,008,Europe,Southern Europe,1992,0.692577704100372,2387.217
 Albania,008,Europe,Southern Europe,1991,1.14787082236558,3971.361
 Albania,008,Europe,Southern Europe,1990,2.1724021884126,7488.014
-Algeria,012,Africa,Northern Africa,2011,3.22420156024837,121755.401
 Algeria,012,Africa,Northern Africa,2010,3.21822540756478,119276.509
 Algeria,012,Africa,Northern Africa,2009,3.33598179186705,121374.033
 Algeria,012,Africa,Northern Africa,2008,3.12315273817824,111575.809
@@ -65,7 +62,6 @@ Algeria,012,Africa,Northern Africa,1993,2.92265430669419,82294.814
 Algeria,012,Africa,Northern Africa,1992,2.97566728433775,81935.448
 Algeria,012,Africa,Northern Africa,1991,3.02005654640649,81220.383
 Algeria,012,Africa,Northern Africa,1990,3.00783991193804,78924.841
-Andorra,020,Europe,Southern Europe,2011,,491.378
 Andorra,020,Europe,Southern Europe,2010,,517.047
 Andorra,020,Europe,Southern Europe,2009,,517.047
 Andorra,020,Europe,Southern Europe,2008,,539.049
@@ -82,7 +78,6 @@ Andorra,020,Europe,Southern Europe,1998,,484.044
 Andorra,020,Europe,Southern Europe,1997,,458.375
 Andorra,020,Europe,Southern Europe,1996,,425.372
 Andorra,020,Europe,Southern Europe,1995,,407.037
-Angola,024,Africa,Middle Africa,2011,1.47221568951002,29710.034
 Angola,024,Africa,Middle Africa,2010,1.52145114021477,29743.037
 Angola,024,Africa,Middle Africa,2009,1.5513399888517,29361.669
 Angola,024,Africa,Middle Africa,2008,1.48366362915472,27172.47
@@ -104,7 +99,6 @@ Angola,024,Africa,Middle Africa,1993,0.51012261878926,5801.194
 Angola,024,Africa,Middle Africa,1992,0.401602489121364,4418.735
 Angola,024,Africa,Middle Africa,1991,0.409979247567313,4367.397
 Angola,024,Africa,Middle Africa,1990,0.428662944786084,4429.736
-Anguilla,660,Americas,Caribbean,2011,,143.013
 Anguilla,660,Americas,Caribbean,2010,,150.347
 Anguilla,660,Americas,Caribbean,2009,,146.68
 Anguilla,660,Americas,Caribbean,2008,,150.347
@@ -119,7 +113,6 @@ Anguilla,660,Americas,Caribbean,2000,,62.339
 Anguilla,660,Americas,Caribbean,1999,,51.338
 Anguilla,660,Americas,Caribbean,1998,,47.671
 Anguilla,660,Americas,Caribbean,1997,,44.004
-Antigua and Barbuda,028,Americas,Caribbean,2011,5.8238043379617,513.38
 Antigua and Barbuda,028,Americas,Caribbean,2010,6.01126867125973,524.381
 Antigua and Barbuda,028,Americas,Caribbean,2009,5.90629200463499,509.713
 Antigua and Barbuda,028,Americas,Caribbean,2008,5.62838463250887,480.377
@@ -141,7 +134,6 @@ Antigua and Barbuda,028,Americas,Caribbean,1993,4.69200530307702,304.361
 Antigua and Barbuda,028,Americas,Caribbean,1992,4.56684112620992,289.693
 Antigua and Barbuda,028,Americas,Caribbean,1991,4.6416234057553,289.693
 Antigua and Barbuda,028,Americas,Caribbean,1990,4.85726747003521,300.694
-Argentina,032,Americas,South America,2011,4.66586863064601,190034.941
 Argentina,032,Americas,South America,2010,4.43354497661677,179000.938
 Argentina,032,Americas,South America,2009,4.51370116476909,180654.755
 Argentina,032,Americas,South America,2008,4.82857009851502,191578.748
@@ -163,7 +155,6 @@ Argentina,032,Americas,South America,1993,3.49241211053065,118609.115
 Argentina,032,Americas,South America,1992,3.62304485963537,121447.373
 Argentina,032,Americas,South America,1991,3.53803832564066,117021.304
 Argentina,032,Americas,South America,1990,3.45177026584072,112613.57
-Armenia,051,Asia,Western Asia,2011,1.67383607951095,4961.451
 Armenia,051,Asia,Western Asia,2010,1.42299837759187,4217.05
 Armenia,051,Asia,Western Asia,2009,1.4689477028483,4360.063
 Armenia,051,Asia,Western Asia,2008,1.86706781018093,5559.172
@@ -183,7 +174,6 @@ Armenia,051,Asia,Western Asia,1995,1.08308924156414,3490.984
 Armenia,051,Asia,Western Asia,1994,0.901718661995056,2966.603
 Armenia,051,Asia,Western Asia,1993,0.859706564999037,2896.93
 Armenia,051,Asia,Western Asia,1992,1.17467416263878,4052.035
-Aruba,533,Americas,Caribbean,2011,23.9233508613586,2438.555
 Aruba,533,Americas,Caribbean,2010,24.182702245145,2456.89
 Aruba,533,Americas,Caribbean,2009,24.8762152675068,2522.896
 Aruba,533,Americas,Caribbean,2008,24.7496447742343,2508.228
@@ -205,7 +195,6 @@ Aruba,533,Americas,Caribbean,1993,24.4304808408508,1771.161
 Aruba,533,Americas,Caribbean,1992,25.258151974793,1723.49
 Aruba,533,Americas,Caribbean,1991,29.8476084366247,1928.842
 Aruba,533,Americas,Caribbean,1990,29.6201647679732,1840.834
-Australia,036,Oceania,Australia and New Zealand,2011,16.2282694655922,369039.546
 Australia,036,Oceania,Australia and New Zealand,2010,16.4328891157879,368170.467
 Australia,036,Oceania,Australia and New Zealand,2009,17.3554454404548,382464.433
 Australia,036,Oceania,Australia and New Zealand,2008,17.3802669842752,376197.53
@@ -227,7 +216,6 @@ Australia,036,Oceania,Australia and New Zealand,1993,15.6549170537402,277478.223
 Australia,036,Oceania,Australia and New Zealand,1992,15.2932494070821,268068.701
 Australia,036,Oceania,Australia and New Zealand,1991,15.10100848337,261574.444
 Australia,036,Oceania,Australia and New Zealand,1990,15.4325323543159,263847.984
-Austria,040,Europe,Western Europe,2011,7.73197883525102,65202.927
 Austria,040,Europe,Western Europe,2010,8.09043012052954,67975.179
 Austria,040,Europe,Western Europe,2009,7.58305010767811,63483.104
 Austria,040,Europe,Western Europe,2008,8.24161110431162,68752.583
@@ -249,7 +237,6 @@ Austria,040,Europe,Western Europe,1993,7.25773716423828,57135.527
 Austria,040,Europe,Western Europe,1992,7.27032457946106,56688.153
 Austria,040,Europe,Western Europe,1991,7.97762319164707,61638.603
 Austria,040,Europe,Western Europe,1990,7.52571570720786,57722.247
-Azerbaijan,031,Asia,Western Asia,2011,3.63574628967647,33457.708
 Azerbaijan,031,Asia,Western Asia,2010,3.37318012499123,30678.122
 Azerbaijan,031,Asia,Western Asia,2009,3.55018424782885,31902.9
 Azerbaijan,031,Asia,Western Asia,2008,3.9992360607272,35503.894
@@ -269,7 +256,6 @@ Azerbaijan,031,Asia,Western Asia,1995,4.30839606599367,33479.71
 Azerbaijan,031,Asia,Western Asia,1994,5.55989150930121,42672.879
 Azerbaijan,031,Asia,Western Asia,1993,6.523607283899,49365.154
 Azerbaijan,031,Asia,Western Asia,1992,7.74109009357234,57678.243
-Bahamas,044,Americas,Caribbean,2011,5.2052378859556,1906.84
 Bahamas,044,Americas,Caribbean,2010,6.83561073847844,2464.224
 Bahamas,044,Americas,Caribbean,2009,4.63428229692066,1642.816
 Bahamas,044,Americas,Caribbean,2008,3.00021530688408,1045.095
@@ -291,7 +277,6 @@ Bahamas,044,Americas,Caribbean,1993,6.2761217978274,1701.488
 Bahamas,044,Americas,Caribbean,1992,6.73875691946922,1793.163
 Bahamas,044,Americas,Caribbean,1991,6.82553944435508,1782.162
 Bahamas,044,Americas,Caribbean,1990,7.61043622092706,1950.844
-Bahrain,048,Asia,Western Asia,2011,18.131278408124,23439.464
 Bahrain,048,Asia,Western Asia,2010,18.5794690107094,23252.447
 Bahrain,048,Asia,Western Asia,2009,18.2159148798319,21704.973
 Bahrain,048,Asia,Western Asia,2008,21.5149627521643,24011.516
@@ -313,7 +298,6 @@ Bahrain,048,Asia,Western Asia,1993,29.3107552392988,15702.094
 Bahrain,048,Asia,Western Asia,1992,21.9142727608364,11455.708
 Bahrain,048,Asia,Western Asia,1991,24.2046679551452,12335.788
 Bahrain,048,Asia,Western Asia,1990,25.5388068007678,12665.818
-Bangladesh,050,Asia,Southern Asia,2011,0.373339090754091,57069.521
 Bangladesh,050,Asia,Southern Asia,2010,0.37156390079171,56152.771
 Bangladesh,050,Asia,Southern Asia,2009,0.353103928948631,52790.132
 Bangladesh,050,Asia,Southern Asia,2008,0.335078178398188,49581.507
@@ -335,7 +319,6 @@ Bangladesh,050,Asia,Southern Asia,1993,0.15150236067276,17407.249
 Bangladesh,050,Asia,Southern Asia,1992,0.157859354195011,17748.28
 Bangladesh,050,Asia,Southern Asia,1991,0.144999394640031,15940.449
 Bangladesh,050,Asia,Southern Asia,1990,0.144650458453804,15533.412
-Barbados,052,Americas,Caribbean,2011,5.55637606279542,1565.809
 Barbados,052,Americas,Caribbean,2010,5.41426411218419,1518.138
 Barbados,052,Americas,Caribbean,2009,5.82238733217207,1624.481
 Barbados,052,Americas,Caribbean,2008,5.86436819697876,1628.148
@@ -357,7 +340,6 @@ Barbados,052,Americas,Caribbean,1993,4.25948936625477,1114.768
 Barbados,052,Americas,Caribbean,1992,3.75183071929737,979.089
 Barbados,052,Americas,Caribbean,1991,4.63704429710772,1206.443
 Barbados,052,Americas,Caribbean,1990,4.14300752691489,1074.431
-Belarus,112,Europe,Eastern Europe,2011,6.69849755422817,63303.421
 Belarus,112,Europe,Eastern Europe,2010,6.55581046183412,62221.656
 Belarus,112,Europe,Eastern Europe,2009,6.32943258744555,60292.814
 Belarus,112,Europe,Eastern Europe,2008,6.57356824404359,62815.71
@@ -377,7 +359,6 @@ Belarus,112,Europe,Eastern Europe,1995,6.09662604309027,62118.98
 Belarus,112,Europe,Eastern Europe,1994,6.44974703699021,65914.325
 Belarus,112,Europe,Eastern Europe,1993,7.26611232921472,74451.101
 Belarus,112,Europe,Eastern Europe,1992,8.52275291997852,87487.286
-Belgium,056,Europe,Western Europe,2011,8.88245259767021,97765.887
 Belgium,056,Europe,Western Europe,2010,9.97078680316248,109093.25
 Belgium,056,Europe,Western Europe,2009,9.57628115080211,104021.789
 Belgium,056,Europe,Western Europe,2008,9.64323496747109,103882.443
@@ -399,7 +380,6 @@ Belgium,056,Europe,Western Europe,1993,10.6679648658756,107652.119
 Belgium,056,Europe,Western Europe,1992,11.1411776447245,111968.178
 Belgium,056,Europe,Western Europe,1991,11.083702316425,110959.753
 Belgium,056,Europe,Western Europe,1990,10.6280896602918,106049.64
-Belize,084,Americas,Central America,2011,1.73912356140129,550.05
 Belize,084,Americas,Central America,2010,1.79431617492182,553.717
 Belize,084,Americas,Central America,2009,1.55930581763096,469.376
 Belize,084,Americas,Central America,2008,1.53653626032213,451.041
@@ -421,7 +401,6 @@ Belize,084,Americas,Central America,1993,1.90354298961798,377.701
 Belize,084,Americas,Central America,1992,1.82508953585026,355.699
 Belize,084,Americas,Central America,1991,1.87787926926132,359.366
 Belize,084,Americas,Central America,1990,1.66191242961952,311.695
-Benin,204,Africa,Western Africa,2011,0.509941159298329,4987.12
 Benin,204,Africa,Western Africa,2010,0.541771234257552,5152.135
 Benin,204,Africa,Western Africa,2009,0.514288886558639,4752.432
 Benin,204,Africa,Western Africa,2008,0.500196304745649,4488.408
@@ -443,7 +422,6 @@ Benin,204,Africa,Western Africa,1993,0.202977024301289,1133.103
 Benin,204,Africa,Western Africa,1992,0.168410364309718,905.749
 Benin,204,Africa,Western Africa,1991,0.159910854265054,828.742
 Benin,204,Africa,Western Africa,1990,0.142976655334214,715.065
-Bermuda,060,Americas,Northern America,2011,,392.369
 Bermuda,060,Americas,Northern America,2010,,476.71
 Bermuda,060,Americas,Northern America,2009,,465.709
 Bermuda,060,Americas,Northern America,2008,,388.702
@@ -465,7 +443,6 @@ Bermuda,060,Americas,Northern America,1993,,480.377
 Bermuda,060,Americas,Northern America,1992,,407.037
 Bermuda,060,Americas,Northern America,1991,,509.713
 Bermuda,060,Americas,Northern America,1990,,597.721
-Bhutan,064,Asia,Southern Asia,2011,0.769164647964367,561.051
 Bhutan,064,Asia,Southern Asia,2010,0.680268474723791,487.711
 Bhutan,064,Asia,Southern Asia,2009,0.551708769668806,388.702
 Bhutan,064,Asia,Southern Asia,2008,0.60926030001777,421.705
@@ -487,7 +464,6 @@ Bhutan,064,Asia,Southern Asia,1993,0.360302163928362,187.017
 Bhutan,064,Asia,Southern Asia,1992,0.409523683333838,216.353
 Bhutan,064,Asia,Southern Asia,1991,0.349626569203877,187.017
 Bhutan,064,Asia,Southern Asia,1990,0.239566728512818,128.345
-Bolivia,068,Americas,South America,2011,1.56135579200625,16120.132
 Bolivia,068,Americas,South America,2010,1.51133848814185,15350.062
 Bolivia,068,Americas,South America,2009,1.42556952054185,14246.295
 Bolivia,068,Americas,South America,2008,1.37856049431275,13556.899
@@ -509,7 +485,6 @@ Bolivia,068,Americas,South America,1993,1.10571986268545,8063.733
 Bolivia,068,Americas,South America,1992,0.936917667584687,6673.94
 Bolivia,068,Americas,South America,1991,0.833368838489775,5797.527
 Bolivia,068,Americas,South America,1990,0.813384101314592,5526.169
-Bosnia and Herzegovina,070,Europe,Southern Europe,2011,6.18533480651011,23747.492
 Bosnia and Herzegovina,070,Europe,Southern Europe,2010,5.49869459368595,21147.589
 Bosnia and Herzegovina,070,Europe,Southern Europe,2009,5.34998388455424,20615.874
 Bosnia and Herzegovina,070,Europe,Southern Europe,2008,5.20248130050728,20087.826
@@ -529,7 +504,6 @@ Bosnia and Herzegovina,070,Europe,Southern Europe,1995,0.973771341972556,3428.64
 Bosnia and Herzegovina,070,Europe,Southern Europe,1994,0.882827527614432,3230.627
 Bosnia and Herzegovina,070,Europe,Southern Europe,1993,0.759364211337503,2948.268
 Bosnia and Herzegovina,070,Europe,Southern Europe,1992,0.998384771864715,4136.376
-Botswana,072,Africa,Southern Africa,2011,2.44380407519803,4855.108
 Botswana,072,Africa,Southern Africa,2010,2.65713708291251,5232.809
 Botswana,072,Africa,Southern Africa,2009,2.2546324642686,4400.4
 Botswana,072,Africa,Southern Africa,2008,2.57523766379707,4979.786
@@ -551,7 +525,6 @@ Botswana,072,Africa,Southern Africa,1993,2.3239958998288,3498.318
 Botswana,072,Africa,Southern Africa,1992,2.23513315386548,3274.631
 Botswana,072,Africa,Southern Africa,1991,1.50848886601948,2148.862
 Botswana,072,Africa,Southern Africa,1990,1.57394256282191,2178.198
-Brazil,076,Americas,South America,2011,2.23125723721802,439412.943
 Brazil,076,Americas,South America,2010,2.15026804394611,419754.156
 Brazil,076,Americas,South America,2009,1.89749146990989,367147.374
 Brazil,076,Americas,South America,2008,2.02161027167093,387675.24
@@ -573,7 +546,6 @@ Brazil,076,Americas,South America,1993,1.46956868299993,230738.641
 Brazil,076,Americas,South America,1992,1.4276106444725,220705.729
 Brazil,076,Americas,South America,1991,1.44150839633116,219330.604
 Brazil,076,Americas,South America,1990,1.39585234693648,208886.988
-British Virgin Islands,092,Americas,Caribbean,2011,,176.016
 British Virgin Islands,092,Americas,Caribbean,2010,,172.349
 British Virgin Islands,092,Americas,Caribbean,2009,,165.015
 British Virgin Islands,092,Americas,Caribbean,2008,,161.348
@@ -595,7 +567,6 @@ British Virgin Islands,092,Americas,Caribbean,1993,,73.34
 British Virgin Islands,092,Americas,Caribbean,1992,,69.673
 British Virgin Islands,092,Americas,Caribbean,1991,,66.006
 British Virgin Islands,092,Americas,Caribbean,1990,,66.006
-Brunei Darussalam,096,Asia,South-Eastern Asia,2011,23.9678508875507,9743.219
 Brunei Darussalam,096,Asia,South-Eastern Asia,2010,21.4764048141519,8602.782
 Brunei Darussalam,096,Asia,South-Eastern Asia,2009,21.7379462474645,8573.446
 Brunei Darussalam,096,Asia,South-Eastern Asia,2008,25.8474370968282,10029.245
@@ -617,7 +588,6 @@ Brunei Darussalam,096,Asia,South-Eastern Asia,1993,18.8560997239426,5273.146
 Brunei Darussalam,096,Asia,South-Eastern Asia,1992,20.2407450309817,5504.167
 Brunei Darussalam,096,Asia,South-Eastern Asia,1991,20.989403477445,5548.171
 Brunei Darussalam,096,Asia,South-Eastern Asia,1990,24.1774887225654,6211.898
-Bulgaria,100,Europe,Eastern Europe,2011,6.72830548843999,49339.485
 Bulgaria,100,Europe,Eastern Europe,2010,5.97207103634709,44128.678
 Bulgaria,100,Europe,Eastern Europe,2009,5.72836630564569,42654.544
 Bulgaria,100,Europe,Eastern Europe,2008,6.76841987013683,50791.617
@@ -639,7 +609,6 @@ Bulgaria,100,Europe,Eastern Europe,1993,7.96005244352546,68077.855
 Bulgaria,100,Europe,Eastern Europe,1992,6.29322420024563,54458.617
 Bulgaria,100,Europe,Eastern Europe,1991,6.65228521616313,58176.955
 Bulgaria,100,Europe,Eastern Europe,1990,8.58892797063771,75763.887
-Burkina Faso,854,Africa,Western Africa,2011,0.120817204389811,1932.509
 Burkina Faso,854,Africa,Western Africa,2010,0.108309024468279,1683.153
 Burkina Faso,854,Africa,Western Africa,2009,0.110289608450287,1664.818
 Burkina Faso,854,Africa,Western Africa,2008,0.115815961722404,1697.821
@@ -661,7 +630,6 @@ Burkina Faso,854,Africa,Western Africa,1993,0.0656434202954565,627.057
 Burkina Faso,854,Africa,Western Africa,1992,0.0678408228960464,630.724
 Burkina Faso,854,Africa,Western Africa,1991,0.0692873772526019,627.057
 Burkina Faso,854,Africa,Western Africa,1990,0.0665892410118088,586.72
-Burundi,108,Africa,Eastern Africa,2011,0.0219089170830205,209.019
 Burundi,108,Africa,Eastern Africa,2010,0.0210501678101862,194.351
 Burundi,108,Africa,Eastern Africa,2009,0.0213611163917812,190.684
 Burundi,108,Africa,Eastern Africa,2008,0.0221101355707375,190.684
@@ -683,7 +651,6 @@ Burundi,108,Africa,Eastern Africa,1993,0.0543602749236138,326.363
 Burundi,108,Africa,Eastern Africa,1992,0.0523618575822342,308.028
 Burundi,108,Africa,Eastern Africa,1991,0.0586743061553376,337.364
 Burundi,108,Africa,Eastern Africa,1990,0.0523308323253131,293.36
-Cambodia,116,Asia,South-Eastern Asia,2011,0.307803948852865,4495.742
 Cambodia,116,Asia,South-Eastern Asia,2010,0.291523433005004,4187.714
 Cambodia,116,Asia,South-Eastern Asia,2009,0.292183488314135,4132.709
 Cambodia,116,Asia,South-Eastern Asia,2008,0.28514205856626,3975.028
@@ -705,7 +672,6 @@ Cambodia,116,Asia,South-Eastern Asia,1993,0.047304841604048,476.71
 Cambodia,116,Asia,South-Eastern Asia,1992,0.0490352841945015,476.71
 Cambodia,116,Asia,South-Eastern Asia,1991,0.0492677421057486,462.042
 Cambodia,116,Asia,South-Eastern Asia,1990,0.0497984010535545,451.041
-Cameroon,120,Africa,Middle Africa,2011,0.267620306640036,5661.848
 Cameroon,120,Africa,Middle Africa,2010,0.325195474105527,6706.943
 Cameroon,120,Africa,Middle Africa,2009,0.331971660288565,6673.94
 Cameroon,120,Africa,Middle Africa,2008,0.282954664107106,5544.504
@@ -727,7 +693,6 @@ Cameroon,120,Africa,Middle Africa,1993,0.295994220474413,3898.021
 Cameroon,120,Africa,Middle Africa,1992,0.296584756022799,3795.345
 Cameroon,120,Africa,Middle Africa,1991,0.0893862186703033,1111.101
 Cameroon,120,Africa,Middle Africa,1990,0.144002179222673,1738.158
-Canada,124,Americas,Northern America,2011,14.0765303249469,485463.129
 Canada,124,Americas,Northern America,2010,14.5373402695404,496104.763
 Canada,124,Americas,Northern America,2009,15.0336424866361,507424.792
 Canada,124,Americas,Northern America,2008,16.3052878675266,544105.793
@@ -749,7 +714,6 @@ Canada,124,Americas,Northern America,1993,15.5412235703145,445665.178
 Canada,124,Americas,Northern America,1992,15.5421652046398,440608.385
 Canada,124,Americas,Northern America,1991,15.2369956914924,426780.128
 Canada,124,Americas,Northern America,1990,15.7344901743776,435181.225
-Cape Verde,132,Africa,Western Africa,2011,0.867122204192793,425.372
 Cape Verde,132,Africa,Western Africa,2010,0.601639455210305,293.36
 Cape Verde,132,Africa,Western Africa,2009,0.626625956838798,304.361
 Cape Verde,132,Africa,Western Africa,2008,0.590169008214158,286.026
@@ -771,7 +735,6 @@ Cape Verde,132,Africa,Western Africa,1993,0.270841466631496,102.676
 Cape Verde,132,Africa,Western Africa,1992,0.27835054341196,102.676
 Cape Verde,132,Africa,Western Africa,1991,0.254906267899745,91.675
 Cape Verde,132,Africa,Western Africa,1990,0.250051142175247,88.008
-Cayman Islands,136,Americas,Caribbean,2011,,583.053
 Cayman Islands,136,Americas,Caribbean,2010,,564.718
 Cayman Islands,136,Americas,Caribbean,2009,,561.051
 Cayman Islands,136,Americas,Caribbean,2008,,594.054
@@ -793,7 +756,6 @@ Cayman Islands,136,Americas,Caribbean,1993,,333.697
 Cayman Islands,136,Americas,Caribbean,1992,,311.695
 Cayman Islands,136,Americas,Caribbean,1991,,275.025
 Cayman Islands,136,Americas,Caribbean,1990,,253.023
-Central African Republic,140,Africa,Middle Africa,2011,0.0644752048874075,286.026
 Central African Republic,140,Africa,Middle Africa,2010,0.0606962747139546,264.024
 Central African Republic,140,Africa,Middle Africa,2009,0.0550104107896238,234.688
 Central African Republic,140,Africa,Middle Africa,2008,0.0560769548011448,234.688
@@ -815,7 +777,6 @@ Central African Republic,140,Africa,Middle Africa,1993,0.071576541752956,223.687
 Central African Republic,140,Africa,Middle Africa,1992,0.0709170644053063,216.353
 Central African Republic,140,Africa,Middle Africa,1991,0.0689195955950957,205.352
 Central African Republic,140,Africa,Middle Africa,1990,0.0679814503038975,198.018
-Chad,148,Africa,Middle Africa,2011,0.0446231249126141,539.049
 Chad,148,Africa,Middle Africa,2010,0.044113698566674,517.047
 Chad,148,Africa,Middle Africa,2009,0.0432120267427059,491.378
 Chad,148,Africa,Middle Africa,2008,0.0462088831207072,509.713
@@ -837,7 +798,6 @@ Chad,148,Africa,Middle Africa,1993,0.0151333933213388,99.009
 Chad,148,Africa,Middle Africa,1992,0.0138837224050605,88.008
 Chad,148,Africa,Middle Africa,1991,0.0113426686406543,69.673
 Chad,148,Africa,Middle Africa,1990,0.0246455811521456,146.68
-Chile,152,Americas,South America,2011,4.58786832950775,79408.885
 Chile,152,Americas,South America,2010,4.21312145934058,72258.235
 Chile,152,Americas,South America,2009,3.93164262447924,66805.406
 Chile,152,Americas,South America,2008,4.26893307089982,71851.198
@@ -859,7 +819,6 @@ Chile,152,Americas,South America,1993,2.48076681975513,34627.481
 Chile,152,Americas,South America,1992,2.36931292012504,32474.952
 Chile,152,Americas,South America,1991,2.32776501069076,31323.514
 Chile,152,Americas,South America,1990,2.52117992149194,33314.695
-China,156,Asia,Eastern Asia,2011,6.59109368161695,9019518.215
 China,156,Asia,Eastern Asia,2010,6.07209802501536,8256969.232
 China,156,Asia,Eastern Asia,2009,5.69267331255227,7692210.895
 China,156,Asia,Eastern Asia,2008,5.23964625573358,7035443.861
@@ -881,7 +840,6 @@ China,156,Asia,Eastern Asia,1993,2.37299916791778,2878694.009
 China,156,Asia,Eastern Asia,1992,2.24875981676833,2695982.067
 China,156,Asia,Eastern Asia,1991,2.18471673602449,2584538.27
 China,156,Asia,Eastern Asia,1990,2.11144916307885,2460744.017
-"China, Hong Kong Special Administrative Region",344,Asia,Eastern Asia,2011,5.67539790475651,40274.661
 "China, Hong Kong Special Administrative Region",344,Asia,Eastern Asia,2010,5.14767854918793,36288.632
 "China, Hong Kong Special Administrative Region",344,Asia,Eastern Asia,2009,5.27996754641476,36996.363
 "China, Hong Kong Special Administrative Region",344,Asia,Eastern Asia,2008,5.53586607434758,38573.173
@@ -903,7 +861,6 @@ China,156,Asia,Eastern Asia,1990,2.11144916307885,2460744.017
 "China, Hong Kong Special Administrative Region",344,Asia,Eastern Asia,1992,5.65523035316544,33428.372
 "China, Hong Kong Special Administrative Region",344,Asia,Eastern Asia,1991,4.93390273349648,28892.293
 "China, Hong Kong Special Administrative Region",344,Asia,Eastern Asia,1990,4.77390726392009,27660.181
-"China, Macao Special Administrative Region",446,Asia,Eastern Asia,2011,2.13463840755073,1166.106
 "China, Macao Special Administrative Region",446,Asia,Eastern Asia,2010,2.24289316269691,1199.109
 "China, Macao Special Administrative Region",446,Asia,Eastern Asia,2009,2.79093472797091,1455.799
 "China, Macao Special Administrative Region",446,Asia,Eastern Asia,2008,2.63720425277029,1338.455
@@ -925,7 +882,6 @@ China,156,Asia,Eastern Asia,1990,2.11144916307885,2460744.017
 "China, Macao Special Administrative Region",446,Asia,Eastern Asia,1992,2.87304095564043,1085.432
 "China, Macao Special Administrative Region",446,Asia,Eastern Asia,1991,2.9575461995648,1092.766
 "China, Macao Special Administrative Region",446,Asia,Eastern Asia,1990,2.87459935786065,1034.094
-Colombia,170,Americas,South America,2011,1.53834129813696,72423.25
 Colombia,170,Americas,South America,2010,1.6919830289713,78583.81
 Colombia,170,Americas,South America,2009,1.47224219623877,67432.463
 Colombia,170,Americas,South America,2008,1.44306844742248,65158.923
@@ -947,7 +903,6 @@ Colombia,170,Americas,South America,1993,1.81569271253894,64022.153
 Colombia,170,Americas,South America,1992,1.792909165873,62049.307
 Colombia,170,Americas,South America,1991,1.68213852544046,57120.859
 Colombia,170,Americas,South America,1990,1.72147937572532,57337.212
-Comoros,174,Africa,Eastern Africa,2011,0.225189084511065,157.681
 Comoros,174,Africa,Eastern Africa,2010,0.19325965734664,132.012
 Comoros,174,Africa,Eastern Africa,2009,0.181671738500549,121.011
 Comoros,174,Africa,Eastern Africa,2008,0.186374060321181,121.011
@@ -969,7 +924,6 @@ Comoros,174,Africa,Eastern Africa,1993,0.173509530890902,77.007
 Comoros,174,Africa,Eastern Africa,1992,0.17772787489095,77.007
 Comoros,174,Africa,Eastern Africa,1991,0.182062988067683,77.007
 Comoros,174,Africa,Eastern Africa,1990,0.186552484314058,77.007
-Congo,178,Africa,Middle Africa,2011,0.531995269514377,2247.871
 Congo,178,Africa,Middle Africa,2010,0.46821703352494,1925.175
 Congo,178,Africa,Middle Africa,2009,0.426806679906066,1705.155
 Congo,178,Africa,Middle Africa,2008,0.337708614140424,1309.119
@@ -991,7 +945,6 @@ Congo,178,Africa,Middle Africa,1993,0.598740548490086,1543.807
 Congo,178,Africa,Middle Africa,1992,0.626296321510427,1573.143
 Congo,178,Africa,Middle Africa,1991,0.517002313017466,1265.115
 Congo,178,Africa,Middle Africa,1990,0.498517381276164,1188.108
-Cook Islands,184,Oceania,Polynesia,2011,,69.673
 Cook Islands,184,Oceania,Polynesia,2010,,69.673
 Cook Islands,184,Oceania,Polynesia,2009,,69.673
 Cook Islands,184,Oceania,Polynesia,2008,,69.673
@@ -1013,7 +966,6 @@ Cook Islands,184,Oceania,Polynesia,1993,,22.002
 Cook Islands,184,Oceania,Polynesia,1992,,22.002
 Cook Islands,184,Oceania,Polynesia,1991,,22.002
 Cook Islands,184,Oceania,Polynesia,1990,,22.002
-Costa Rica,188,Americas,Central America,2011,1.65560210904915,7843.713
 Costa Rica,188,Americas,Central America,2010,1.62081339533609,7568.688
 Costa Rica,188,Americas,Central America,2009,1.65203011067878,7601.691
 Costa Rica,188,Americas,Central America,2008,1.83725743820861,8327.757
@@ -1035,7 +987,6 @@ Costa Rica,188,Americas,Central America,1993,1.19343587415055,3953.026
 Costa Rica,188,Americas,Central America,1992,1.17259881344694,3791.678
 Costa Rica,188,Americas,Central America,1991,1.05734860719922,3336.97
 Costa Rica,188,Americas,Central America,1990,0.960062704824445,2955.602
-Cote d'Ivoire,384,Africa,Western Africa,2011,0.332470412255748,6446.586
 Cote d'Ivoire,384,Africa,Western Africa,2010,0.310147166603396,5885.535
 Cote d'Ivoire,384,Africa,Western Africa,2009,0.314826693686939,5856.199
 Cote d'Ivoire,384,Africa,Western Africa,2008,0.376338523609253,6871.958
@@ -1057,7 +1008,6 @@ Cote d'Ivoire,384,Africa,Western Africa,1993,0.440576379123318,5892.869
 Cote d'Ivoire,384,Africa,Western Africa,1992,0.357044922031087,4624.087
 Cote d'Ivoire,384,Africa,Western Africa,1991,0.449811964458641,5636.179
 Cote d'Ivoire,384,Africa,Western Africa,1990,0.478509395082754,5797.527
-Croatia,191,Europe,Southern Europe,2011,4.75355715383288,20553.535
 Croatia,191,Europe,Southern Europe,2010,4.81576048281857,20890.899
 Croatia,191,Europe,Southern Europe,2009,4.95516617508788,21554.626
 Croatia,191,Europe,Southern Europe,2008,5.35904788072638,23366.124
@@ -1077,7 +1027,6 @@ Croatia,191,Europe,Southern Europe,1995,3.75519829465404,17612.601
 Croatia,191,Europe,Southern Europe,1994,3.56886097616837,16875.534
 Croatia,191,Europe,Southern Europe,1993,3.44953673811136,16428.16
 Croatia,191,Europe,Southern Europe,1992,3.50337097614396,16772.858
-Cuba,192,Americas,Caribbean,2011,3.18568314639883,35921.932
 Cuba,192,Americas,Caribbean,2010,3.40021945141932,38360.487
 Cuba,192,Americas,Caribbean,2009,2.64837557067493,29897.051
 Cuba,192,Americas,Caribbean,2008,2.69497851298051,30443.434
@@ -1099,7 +1048,6 @@ Cuba,192,Americas,Caribbean,1993,2.71495315227919,29380.004
 Cuba,192,Americas,Caribbean,1992,2.91747267192055,31385.853
 Cuba,192,Americas,Caribbean,1991,2.77543266711472,29655.029
 Cuba,192,Americas,Caribbean,1990,3.15959629995394,33494.378
-Cyprus,196,Asia,Western Asia,2011,6.73616608136224,7521.017
 Cyprus,196,Asia,Western Asia,2010,6.98390754608425,7708.034
 Cyprus,196,Asia,Western Asia,2009,7.4378815151579,8111.404
 Cyprus,196,Asia,Western Asia,2008,7.92918969555905,8540.443
@@ -1121,7 +1069,6 @@ Cyprus,196,Asia,Western Asia,1993,6.69972912041074,5485.832
 Cyprus,196,Asia,Western Asia,1992,6.59057902230659,5276.813
 Cyprus,196,Asia,Western Asia,1991,6.05440037388047,4741.431
 Cyprus,196,Asia,Western Asia,1990,6.07012291762054,4653.423
-Czech Republic,203,Europe,Eastern Europe,2011,10.3180885148172,109485.619
 Czech Republic,203,Europe,Eastern Europe,2010,10.5336291031933,111168.772
 Czech Republic,203,Europe,Eastern Europe,2009,10.2633984059786,107626.45
 Czech Republic,203,Europe,Eastern Europe,2008,11.2107295005415,116724.277
@@ -1141,7 +1088,6 @@ Czech Republic,203,Europe,Eastern Europe,1995,11.9594325414976,123651.24
 Czech Republic,203,Europe,Eastern Europe,1994,12.1862375399898,126053.125
 Czech Republic,203,Europe,Eastern Europe,1993,12.8634568721328,133035.093
 Czech Republic,203,Europe,Eastern Europe,1992,13.4156602651503,138667.605
-Democratic Republic of the Congo,180,Africa,Middle Africa,2011,0.0535726106399611,3424.978
 Democratic Republic of the Congo,180,Africa,Middle Africa,2010,0.0523005029605413,3252.629
 Democratic Republic of the Congo,180,Africa,Middle Africa,2009,0.0481365062051431,2911.598
 Democratic Republic of the Congo,180,Africa,Middle Africa,2008,0.0508725083195002,2992.272
@@ -1163,7 +1109,6 @@ Democratic Republic of the Congo,180,Africa,Middle Africa,1993,0.086870735410341
 Democratic Republic of the Congo,180,Africa,Middle Africa,1992,0.0959244939574917,3619.329
 Democratic Republic of the Congo,180,Africa,Middle Africa,1991,0.103577784198698,3755.008
 Democratic Republic of the Congo,180,Africa,Middle Africa,1990,0.116594130417328,4070.37
-Denmark,208,Europe,Northern Europe,2011,7.2422637817908,40377.337
 Denmark,208,Europe,Northern Europe,2010,8.38970347285937,46570.9
 Denmark,208,Europe,Northern Europe,2009,8.0576162921512,44513.713
 Denmark,208,Europe,Northern Europe,2008,8.5434946281948,46955.935
@@ -1185,7 +1130,6 @@ Denmark,208,Europe,Northern Europe,1993,10.9940109400957,57065.854
 Denmark,208,Europe,Northern Europe,1992,10.5046885659787,54322.938
 Denmark,208,Europe,Northern Europe,1991,11.6932865297754,60270.812
 Denmark,208,Europe,Northern Europe,1990,9.77185247956747,50230.566
-Djibouti,262,Africa,Eastern Africa,2011,0.558725842914276,473.043
 Djibouti,262,Africa,Eastern Africa,2010,0.619933671927831,517.047
 Djibouti,262,Africa,Eastern Africa,2009,0.562187220528919,462.042
 Djibouti,262,Africa,Eastern Africa,2008,0.615617824959881,498.712
@@ -1207,7 +1151,6 @@ Djibouti,262,Africa,Eastern Africa,1993,0.63411279015423,407.037
 Djibouti,262,Africa,Eastern Africa,1992,0.623428396197485,392.369
 Djibouti,262,Africa,Eastern Africa,1991,0.622551172156209,381.368
 Djibouti,262,Africa,Eastern Africa,1990,0.640253659793465,377.701
-Dominica,212,Americas,Caribbean,2011,,124.678
 Dominica,212,Americas,Caribbean,2010,,135.679
 Dominica,212,Americas,Caribbean,2009,,128.345
 Dominica,212,Americas,Caribbean,2008,,128.345
@@ -1229,7 +1172,6 @@ Dominica,212,Americas,Caribbean,1993,,62.339
 Dominica,212,Americas,Caribbean,1992,,58.672
 Dominica,212,Americas,Caribbean,1991,,58.672
 Dominica,212,Americas,Caribbean,1990,,58.672
-Dominican Republic,214,Americas,Caribbean,2011,2.15699547814173,21888.323
 Dominican Republic,214,Americas,Caribbean,2010,2.13281171616037,21363.942
 Dominican Republic,214,Americas,Caribbean,2009,2.07867767608416,20546.201
 Dominican Republic,214,Americas,Caribbean,2008,2.19639504645805,21415.28
@@ -1251,7 +1193,6 @@ Dominican Republic,214,Americas,Caribbean,1993,1.53010355095005,11763.736
 Dominican Republic,214,Americas,Caribbean,1992,1.44872454734291,10923.993
 Dominican Republic,214,Americas,Caribbean,1991,1.35868296432993,10043.913
 Dominican Republic,214,Americas,Caribbean,1990,1.27393750309691,9229.839
-Ecuador,218,Americas,South America,2011,2.34333293039883,35727.581
 Ecuador,218,Americas,South America,2010,2.2831554971538,34249.78
 Ecuador,218,Americas,South America,2009,2.34486431129927,34601.812
 Ecuador,218,Americas,South America,2008,2.05530263012284,29827.378
@@ -1273,7 +1214,6 @@ Ecuador,218,Americas,South America,1993,2.23207845241289,24187.532
 Ecuador,218,Americas,South America,1992,2.10439143821838,22302.694
 Ecuador,218,Americas,South America,1991,1.59129628217589,16486.832
 Ecuador,218,Americas,South America,1990,1.66296659693846,16835.197
-Egypt,818,Africa,Northern Africa,2011,2.7809952395231,220790.07
 Egypt,818,Africa,Northern Africa,2010,2.62152319982253,204677.272
 Egypt,818,Africa,Northern Africa,2009,2.57986686633751,198069.338
 Egypt,818,Africa,Northern Africa,2008,2.6068602280387,196796.889
@@ -1295,7 +1235,6 @@ Egypt,818,Africa,Northern Africa,1993,1.57072935694876,93156.468
 Egypt,818,Africa,Northern Africa,1992,1.39221167972047,81264.387
 Egypt,818,Africa,Northern Africa,1991,1.37165236197673,78715.822
 Egypt,818,Africa,Northern Africa,1990,1.3480322051304,75943.57
-El Salvador,222,Americas,Central America,2011,1.06852340430565,6684.941
 El Salvador,222,Americas,Central America,2010,1.0143200719823,6307.24
 El Salvador,222,Americas,Central America,2009,1.04195612053011,6442.919
 El Salvador,222,Americas,Central America,2008,1.06401712286013,6545.595
@@ -1317,7 +1256,6 @@ El Salvador,222,Americas,Central America,1993,0.695097941479872,3890.687
 El Salvador,222,Americas,Central America,1992,0.622130129929608,3428.645
 El Salvador,222,Americas,Central America,1991,0.595475119961263,3230.627
 El Salvador,222,Americas,Central America,1990,0.489919026627991,2618.238
-Equatorial Guinea,226,Africa,Middle Africa,2011,9.34168347309202,6688.608
 Equatorial Guinea,226,Africa,Middle Africa,2010,6.72122062665998,4679.092
 Equatorial Guinea,226,Africa,Middle Africa,2009,6.82634730538922,4620.42
 Equatorial Guinea,226,Africa,Middle Africa,2008,6.84332054253258,4503.076
@@ -1339,7 +1277,6 @@ Equatorial Guinea,226,Africa,Middle Africa,1993,0.248377428414536,102.676
 Equatorial Guinea,226,Africa,Middle Africa,1992,0.541390053174851,216.353
 Equatorial Guinea,226,Africa,Middle Africa,1991,0.521934795998116,201.685
 Equatorial Guinea,226,Africa,Middle Africa,1990,0.323687779355947,121.011
-Eritrea,232,Africa,Eastern Africa,2011,0.0877679065650045,520.714
 Eritrea,232,Africa,Eastern Africa,2010,0.0894209688322515,513.38
 Eritrea,232,Africa,Eastern Africa,2009,0.0923696029193818,513.38
 Eritrea,232,Africa,Eastern Africa,2008,0.0769896786849451,414.371
@@ -1357,7 +1294,6 @@ Eritrea,232,Africa,Eastern Africa,1997,0.148313383532476,528.048
 Eritrea,232,Africa,Eastern Africa,1996,0.0981836523820039,341.031
 Eritrea,232,Africa,Eastern Africa,1995,0.0860845610027783,293.36
 Eritrea,232,Africa,Eastern Africa,1994,0.0664561653485081,223.687
-Estonia,233,Europe,Northern Europe,2011,14.4074088951856,18650.362
 Estonia,233,Europe,Northern Europe,2010,14.1226037382184,18338.667
 Estonia,233,Europe,Northern Europe,2009,11.3165027456609,14745.007
 Estonia,233,Europe,Northern Europe,2008,13.3745441866547,17491.59
@@ -1377,7 +1313,6 @@ Estonia,233,Europe,Northern Europe,1995,11.7424777192556,16827.863
 Estonia,233,Europe,Northern Europe,1994,12.5546663342076,18327.666
 Estonia,233,Europe,Northern Europe,1993,12.5943106123494,18782.374
 Estonia,233,Europe,Northern Europe,1992,15.0974007983403,22995.757
-Ethiopia,231,Africa,Eastern Africa,2011,0.0843803618184556,7543.019
 Ethiopia,231,Africa,Eastern Africa,2010,0.0759964825189553,6618.935
 Ethiopia,231,Africa,Eastern Africa,2009,0.0773269115907828,6560.263
 Ethiopia,231,Africa,Eastern Africa,2008,0.0770937697702006,6369.579
@@ -1399,7 +1334,6 @@ Ethiopia,231,Africa,Eastern Africa,1993,0.0567665495324241,3028.942
 Ethiopia,231,Africa,Eastern Africa,1992,0.0575752569719731,2966.603
 Ethiopia,231,Africa,Eastern Africa,1991,0.0600061318092116,2984.938
 Ethiopia,231,Africa,Eastern Africa,1990,0.0628178171713925,3017.941
-Faeroe Islands,234,Europe,Northern Europe,2011,,568.385
 Faeroe Islands,234,Europe,Northern Europe,2010,,630.724
 Faeroe Islands,234,Europe,Northern Europe,2009,,575.719
 Faeroe Islands,234,Europe,Northern Europe,2008,,630.724
@@ -1421,7 +1355,6 @@ Faeroe Islands,234,Europe,Northern Europe,1993,,667.394
 Faeroe Islands,234,Europe,Northern Europe,1992,,605.055
 Faeroe Islands,234,Europe,Northern Europe,1991,,594.054
 Faeroe Islands,234,Europe,Northern Europe,1990,,623.39
-Falkland Islands (Malvinas),238,Americas,South America,2011,,55.005
 Falkland Islands (Malvinas),238,Americas,South America,2010,,55.005
 Falkland Islands (Malvinas),238,Americas,South America,2009,,58.672
 Falkland Islands (Malvinas),238,Americas,South America,2008,,58.672
@@ -1443,7 +1376,6 @@ Falkland Islands (Malvinas),238,Americas,South America,1993,,36.67
 Falkland Islands (Malvinas),238,Americas,South America,1992,,36.67
 Falkland Islands (Malvinas),238,Americas,South America,1991,,36.67
 Falkland Islands (Malvinas),238,Americas,South America,1990,,36.67
-Fiji,242,Oceania,Melanesia,2011,1.42383811429842,1235.779
 Fiji,242,Oceania,Melanesia,2010,1.50419785279103,1294.451
 Fiji,242,Oceania,Melanesia,2009,0.993663187011058,847.077
 Fiji,242,Oceania,Melanesia,2008,1.27759284518238,1078.098
@@ -1465,7 +1397,6 @@ Fiji,242,Oceania,Melanesia,1993,1.01034939987257,762.736
 Fiji,242,Oceania,Melanesia,1992,0.970522879329339,722.399
 Fiji,242,Oceania,Melanesia,1991,0.917736317156074,674.728
 Fiji,242,Oceania,Melanesia,1990,1.12274778640166,817.741
-Finland,246,Europe,Northern Europe,2011,10.162514631429,54766.645
 Finland,246,Europe,Northern Europe,2010,11.5215149227052,61843.955
 Finland,246,Europe,Northern Europe,2009,9.94920645435463,53167.833
 Finland,246,Europe,Northern Europe,2008,10.6418423040308,56596.478
@@ -1487,7 +1418,6 @@ Finland,246,Europe,Northern Europe,1993,9.9581672499958,50402.915
 Finland,246,Europe,Northern Europe,1992,9.4287872366034,47472.982
 Finland,246,Europe,Northern Europe,1991,10.7197971166497,53699.548
 Finland,246,Europe,Northern Europe,1990,10.3765987761458,51745.037
-France,250,Europe,Western Europe,2011,5.32862341848601,338805.131
 France,250,Europe,Western Europe,2010,5.65289044119687,357437.158
 France,250,Europe,Western Europe,2009,5.67079486845236,356626.751
 France,250,Europe,Western Europe,2008,5.94275390313824,371734.791
@@ -1509,7 +1439,6 @@ France,250,Europe,Western Europe,1993,6.2508442115268,359861.045
 France,250,Europe,Western Europe,1992,6.3799387419711,365819.92
 France,250,Europe,Western Europe,1991,6.84134589930741,390627.175
 France,250,Europe,Western Europe,1990,6.60793655386981,375632.812
-French Guiana,254,Americas,South America,2011,3.03197202289803,718.732
 French Guiana,254,Americas,South America,2010,3.02980503441205,700.397
 French Guiana,254,Americas,South America,2009,3.10606981147973,700.397
 French Guiana,254,Americas,South America,2008,3.15060142377874,693.063
@@ -1531,7 +1460,6 @@ French Guiana,254,Americas,South America,1993,6.71498513592203,876.413
 French Guiana,254,Americas,South America,1992,6.96221758116575,880.08
 French Guiana,254,Americas,South America,1991,6.88426791277259,839.743
 French Guiana,254,Americas,South America,1990,6.95557890959424,814.074
-French Polynesia,258,Oceania,Polynesia,2011,3.16781234079314,858.078
 French Polynesia,258,Oceania,Polynesia,2010,3.29676384458993,883.747
 French Polynesia,258,Oceania,Polynesia,2009,3.28826880472624,872.746
 French Polynesia,258,Oceania,Polynesia,2008,3.30602905541375,869.079
@@ -1553,7 +1481,6 @@ French Polynesia,258,Oceania,Polynesia,1993,2.95684644514732,616.056
 French Polynesia,258,Oceania,Polynesia,1992,3.14412794917888,645.392
 French Polynesia,258,Oceania,Polynesia,1991,3.15839025839026,638.058
 French Polynesia,258,Oceania,Polynesia,1990,3.17953319554368,630.724
-Gabon,266,Africa,Middle Africa,2011,1.40327621619112,2236.87
 Gabon,266,Africa,Middle Africa,2010,1.44208474112305,2244.204
 Gabon,266,Africa,Middle Africa,2009,1.41209751473681,2145.195
 Gabon,266,Africa,Middle Africa,2008,1.38732623750458,2057.187
@@ -1575,7 +1502,6 @@ Gabon,266,Africa,Middle Africa,1993,3.2001718087404,3281.965
 Gabon,266,Africa,Middle Africa,1992,2.13303758523783,2130.527
 Gabon,266,Africa,Middle Africa,1991,1.51952877982271,1477.801
 Gabon,266,Africa,Middle Africa,1990,5.11681805170154,4844.107
-Gambia,270,Africa,Western Africa,2011,0.243062400070088,421.705
 Gambia,270,Africa,Western Africa,2010,0.281465989146992,473.043
 Gambia,270,Africa,Western Africa,2009,0.267987732231511,436.373
 Gambia,270,Africa,Western Africa,2008,0.260271333549643,410.704
@@ -1597,7 +1523,6 @@ Gambia,270,Africa,Western Africa,1993,0.20731034811087,209.019
 Gambia,270,Africa,Western Africa,1992,0.202128072220532,198.018
 Gambia,270,Africa,Western Africa,1991,0.208554375610203,198.018
 Gambia,270,Africa,Western Africa,1990,0.207986160724511,190.684
-Georgia,268,Asia,Western Asia,2011,1.81328559612604,7931.721
 Georgia,268,Asia,Western Asia,2010,1.48813217842109,6530.927
 Georgia,268,Asia,Western Asia,2009,1.42477561823847,6270.57
 Georgia,268,Asia,Western Asia,2008,1.45433361843235,6417.25
@@ -1617,7 +1542,6 @@ Georgia,268,Asia,Western Asia,1995,0.45447227362638,2302.876
 Georgia,268,Asia,Western Asia,1994,1.17987948208717,6083.553
 Georgia,268,Asia,Western Asia,1993,1.89463550365316,9952.238
 Georgia,268,Asia,Western Asia,1992,2.86877474570326,15335.394
-Germany,276,Europe,Western Europe,2011,8.80000506436594,729457.975
 Germany,276,Europe,Western Europe,2010,9.04264892455562,750697.239
 Germany,276,Europe,Western Europe,2009,8.66843190394204,721064.212
 Germany,276,Europe,Western Europe,2008,9.38063203228591,782152.765
@@ -1638,7 +1562,6 @@ Germany,276,Europe,Western Europe,1994,10.4598691455758,865558.68
 Germany,276,Europe,Western Europe,1993,10.6736789878973,877645.112
 Germany,276,Europe,Western Europe,1992,10.927705833254,891975.748
 Germany,276,Europe,Western Europe,1991,11.4773990911316,929973.202
-Ghana,288,Africa,Western Africa,2011,0.406136030135485,10080.583
 Ghana,288,Africa,Western Africa,2010,0.416379929176647,10102.585
 Ghana,288,Africa,Western Africa,2009,0.325349735705157,7708.034
 Ghana,288,Africa,Western Africa,2008,0.395417959190985,9138.164
@@ -1660,7 +1583,6 @@ Ghana,288,Africa,Western Africa,1993,0.293226019683459,4664.424
 Ghana,288,Africa,Western Africa,1992,0.264744037418008,4096.039
 Ghana,288,Africa,Western Africa,1991,0.268875008284555,4044.701
 Ghana,288,Africa,Western Africa,1990,0.268720110538925,3931.024
-Gibraltar,292,Europe,Southern Europe,2011,,454.708
 Gibraltar,292,Europe,Southern Europe,2010,,473.043
 Gibraltar,292,Europe,Southern Europe,2009,,465.709
 Gibraltar,292,Europe,Southern Europe,2008,,425.372
@@ -1682,7 +1604,6 @@ Gibraltar,292,Europe,Southern Europe,1993,,333.697
 Gibraltar,292,Europe,Southern Europe,1992,,91.675
 Gibraltar,292,Europe,Southern Europe,1991,,106.343
 Gibraltar,292,Europe,Southern Europe,1990,,95.342
-Greece,300,Europe,Southern Europe,2011,7.55922261847672,84047.64
 Greece,300,Europe,Southern Europe,2010,7.80533067554731,86717.216
 Greece,300,Europe,Southern Europe,2009,8.55115208851494,94901.96
 Greece,300,Europe,Southern Europe,2008,8.82516782589795,97809.891
@@ -1704,7 +1625,6 @@ Greece,300,Europe,Southern Europe,1993,7.23666273288132,75712.549
 Greece,300,Europe,Southern Europe,1992,7.29467416322206,75499.863
 Greece,300,Europe,Southern Europe,1991,7.22789237835337,74062.399
 Greece,300,Europe,Southern Europe,1990,7.31054029717629,74278.752
-Greenland,304,Americas,Northern America,2011,,707.731
 Greenland,304,Americas,Northern America,2010,,663.727
 Greenland,304,Americas,Northern America,2009,,575.719
 Greenland,304,Americas,Northern America,2008,,660.06
@@ -1726,7 +1646,6 @@ Greenland,304,Americas,Northern America,1993,,502.379
 Greenland,304,Americas,Northern America,1992,,484.044
 Greenland,304,Americas,Northern America,1991,,550.05
 Greenland,304,Americas,Northern America,1990,,557.384
-Grenada,308,Americas,Caribbean,2011,2.40804575822753,253.023
 Grenada,308,Americas,Caribbean,2010,2.48724170543672,260.357
 Grenada,308,Americas,Caribbean,2009,2.42600866763826,253.023
 Grenada,308,Americas,Caribbean,2008,2.50507062309972,260.357
@@ -1748,7 +1667,6 @@ Grenada,308,Americas,Caribbean,1993,1.26831600577811,124.678
 Grenada,308,Americas,Caribbean,1992,1.2449563276098,121.011
 Grenada,308,Americas,Caribbean,1991,1.17854958270696,113.677
 Grenada,308,Americas,Caribbean,1990,1.14253370168041,110.01
-Guadeloupe,312,Americas,Caribbean,2011,3.84914237134486,1774.828
 Guadeloupe,312,Americas,Caribbean,2010,3.79038750899535,1738.158
 Guadeloupe,312,Americas,Caribbean,2009,3.81250246759229,1738.158
 Guadeloupe,312,Americas,Caribbean,2008,3.83601955353498,1738.158
@@ -1770,7 +1688,6 @@ Guadeloupe,312,Americas,Caribbean,1993,3.66465869028121,1452.132
 Guadeloupe,312,Americas,Caribbean,1992,3.62903045259114,1426.463
 Guadeloupe,312,Americas,Caribbean,1991,3.49349298711437,1360.457
 Guadeloupe,312,Americas,Caribbean,1990,3.36239379290818,1294.451
-Guatemala,320,Americas,Central America,2011,0.765486709416698,11257.69
 Guatemala,320,Americas,Central America,2010,0.792639525809437,11367.7
 Guatemala,320,Americas,Central America,2009,0.891258181077859,12467.8
 Guatemala,320,Americas,Central America,2008,0.838275399285787,11441.04
@@ -1792,7 +1709,6 @@ Guatemala,320,Americas,Central America,1993,0.593564261399101,5658.181
 Guatemala,320,Americas,Central America,1992,0.646150748718312,6017.547
 Guatemala,320,Americas,Central America,1991,0.555373220072114,5053.126
 Guatemala,320,Americas,Central America,1990,0.572096825663032,5086.129
-Guinea,324,Africa,Western Africa,2011,0.232605744911316,2596.236
 Guinea,324,Africa,Western Africa,2010,0.228596768693144,2486.226
 Guinea,324,Africa,Western Africa,2009,0.19904424025568,2108.525
 Guinea,324,Africa,Western Africa,2008,0.193754472994697,1998.515
@@ -1814,7 +1730,6 @@ Guinea,324,Africa,Western Africa,1993,0.154673484573528,1103.767
 Guinea,324,Africa,Western Africa,1992,0.159547429391459,1074.431
 Guinea,324,Africa,Western Africa,1991,0.169154848419965,1074.431
 Guinea,324,Africa,Western Africa,1990,0.175427936319468,1056.096
-Guinea-Bissau,624,Africa,Western Africa,2011,0.151265093324336,245.689
 Guinea-Bissau,624,Africa,Western Africa,2010,0.1502277792344,238.355
 Guinea-Bissau,624,Africa,Western Africa,2009,0.151323259645175,234.688
 Guinea-Bissau,624,Africa,Western Africa,2008,0.149878701579516,227.354
@@ -1836,7 +1751,6 @@ Guinea-Bissau,624,Africa,Western Africa,1993,0.255860305627344,278.692
 Guinea-Bissau,624,Africa,Western Africa,1992,0.24453761701752,260.357
 Guinea-Bissau,624,Africa,Western Africa,1991,0.246647263377076,256.69
 Guinea-Bissau,624,Africa,Western Africa,1990,0.248699361598608,253.023
-Guyana,328,Americas,South America,2011,2.25338546078935,1782.162
 Guyana,328,Americas,South America,2010,2.18771927146539,1719.823
 Guyana,328,Americas,South America,2009,2.00473590208116,1565.809
 Guyana,328,Americas,South America,2008,2.0090197862941,1558.475
@@ -1858,7 +1772,6 @@ Guyana,328,Americas,South America,1993,1.45360310712224,1052.429
 Guyana,328,Americas,South America,1992,1.45562566389307,1052.429
 Guyana,328,Americas,South America,1991,1.55145252254034,1122.102
 Guyana,328,Americas,South America,1990,1.57292326110314,1140.437
-Haiti,332,Americas,Caribbean,2011,0.220395791271565,2211.201
 Haiti,332,Americas,Caribbean,2010,0.214171415868397,2119.526
 Haiti,332,Americas,Caribbean,2009,0.23169519207738,2262.539
 Haiti,332,Americas,Caribbean,2008,0.251866546382099,2427.554
@@ -1880,7 +1793,6 @@ Haiti,332,Americas,Caribbean,1993,0.087969328488789,663.727
 Haiti,332,Americas,Caribbean,1992,0.122896345904829,909.416
 Haiti,332,Americas,Caribbean,1991,0.137480113829803,997.424
 Haiti,332,Americas,Caribbean,1990,0.139766636718726,993.757
-Honduras,340,Americas,Central America,2011,1.08170966258176,8412.098
 Honduras,340,Americas,Central America,2010,1.06383938810718,8107.737
 Honduras,340,Americas,Central America,2009,1.04612318543734,7814.377
 Honduras,340,Americas,Central America,2008,1.1843784688232,8672.455
@@ -1902,7 +1814,6 @@ Honduras,340,Americas,Central America,1993,0.535591007325219,2849.259
 Honduras,340,Americas,Central America,1992,0.593839391115493,3076.613
 Honduras,340,Americas,Central America,1991,0.53530924885472,2698.912
 Honduras,340,Americas,Central America,1990,0.528697141379539,2592.569
-Hungary,348,Europe,Eastern Europe,2011,4.85107110912947,48492.408
 Hungary,348,Europe,Eastern Europe,2010,5.06734625222911,50747.613
 Hungary,348,Europe,Eastern Europe,2009,4.86308784204638,48782.101
 Hungary,348,Europe,Eastern Europe,2008,5.45922111936841,54843.652
@@ -1924,7 +1835,6 @@ Hungary,348,Europe,Eastern Europe,1993,5.97367557469526,61909.961
 Hungary,348,Europe,Eastern Europe,1992,5.82635129118068,60388.156
 Hungary,348,Europe,Eastern Europe,1991,6.42082489450805,66585.386
 Hungary,348,Europe,Eastern Europe,1990,6.70331430889043,69614.328
-Iceland,352,Europe,Northern Europe,2011,5.841202662924,1881.171
 Iceland,352,Europe,Northern Europe,2010,6.16850919061005,1961.845
 Iceland,352,Europe,Northern Europe,2009,6.54395737466699,2053.52
 Iceland,352,Europe,Northern Europe,2008,6.85057240929042,2119.526
@@ -1946,7 +1856,6 @@ Iceland,352,Europe,Northern Europe,1993,7.5329308682346,1976.513
 Iceland,352,Europe,Northern Europe,1992,6.99833394255373,1818.832
 Iceland,352,Europe,Northern Europe,1991,6.86706787833108,1767.494
 Iceland,352,Europe,Northern Europe,1990,7.84254208688145,1998.515
-India,356,Asia,Southern Asia,2011,1.69867269302481,2074344.893
 India,356,Asia,Southern Asia,2010,1.61820708147964,1950950.343
 India,356,Asia,Southern Asia,2009,1.65175795918515,1965820.028
 India,356,Asia,Southern Asia,2008,1.52645993669871,1793074.992
@@ -1968,7 +1877,6 @@ India,356,Asia,Southern Asia,1993,0.884041935325219,814297.687
 India,356,Asia,Southern Asia,1992,0.867092169982351,783634.233
 India,356,Asia,Southern Asia,1991,0.832462131450584,737851.738
 India,356,Asia,Southern Asia,1990,0.79477979681449,690576.774
-Indonesia,360,Asia,South-Eastern Asia,2011,2.31329289792018,563984.6
 Indonesia,360,Asia,South-Eastern Asia,2010,1.81563945476435,436981.722
 Indonesia,360,Asia,South-Eastern Asia,2009,1.90791800494052,453105.521
 Indonesia,360,Asia,South-Eastern Asia,2008,1.76050636353013,412387.153
@@ -1990,7 +1898,6 @@ Indonesia,360,Asia,South-Eastern Asia,1993,1.16265136918566,218600.871
 Indonesia,360,Asia,South-Eastern Asia,1992,1.09549823713197,202576.081
 Indonesia,360,Asia,South-Eastern Asia,1991,0.988691899928294,179730.671
 Indonesia,360,Asia,South-Eastern Asia,1990,0.837279387852336,149565.929
-Iran (Islamic Republic of),364,Asia,Southern Asia,2011,7.77732250295777,586598.989
 Iran (Islamic Republic of),364,Asia,Southern Asia,2010,7.67642845480198,571604.626
 Iran (Islamic Republic of),364,Asia,Southern Asia,2009,7.57433950776576,557039.302
 Iran (Islamic Republic of),364,Asia,Southern Asia,2008,7.51978159859237,546394.001
@@ -2012,7 +1919,6 @@ Iran (Islamic Republic of),364,Asia,Southern Asia,1993,4.03117131661073,237768.2
 Iran (Islamic Republic of),364,Asia,Southern Asia,1992,3.92872258174456,229073.823
 Iran (Islamic Republic of),364,Asia,Southern Asia,1991,3.96775646310127,228036.062
 Iran (Islamic Republic of),364,Asia,Southern Asia,1990,3.74605857634101,211134.859
-Iraq,368,Asia,Western Asia,2011,4.19809507895134,133654.816
 Iraq,368,Asia,Western Asia,2010,3.59944758768544,111447.464
 Iraq,368,Asia,Western Asia,2009,3.45775041964216,104296.814
 Iraq,368,Asia,Western Asia,2008,3.1651265795666,93149.134
@@ -2034,7 +1940,6 @@ Iraq,368,Asia,Western Asia,1993,3.49309371125113,66801.739
 Iraq,368,Asia,Western Asia,1992,3.32514421298442,61671.606
 Iraq,368,Asia,Western Asia,1991,2.63309269669706,47421.644
 Iraq,368,Asia,Western Asia,1990,3.00016446391016,52555.444
-Ireland,372,Europe,Northern Europe,2011,7.97476366640105,36068.612
 Ireland,372,Europe,Northern Europe,2010,8.99274839224355,40175.652
 Ireland,372,Europe,Northern Europe,2009,9.14334251915123,40325.999
 Ireland,372,Europe,Northern Europe,2008,9.82887392089955,42771.888
@@ -2056,7 +1961,6 @@ Ireland,372,Europe,Northern Europe,1993,8.77077636455159,31275.843
 Ireland,372,Europe,Northern Europe,1992,8.74062975274325,31022.82
 Ireland,372,Europe,Northern Europe,1991,8.88246351825296,31422.523
 Ireland,372,Europe,Northern Europe,1990,8.84769277168996,31242.84
-Israel,376,Asia,Western Asia,2011,9.21766624544388,69522.653
 Israel,376,Asia,Western Asia,2010,9.28416609526644,68891.929
 Israel,376,Asia,Western Asia,2009,8.86375189653172,64473.194
 Israel,376,Asia,Western Asia,2008,9.60604914034785,68268.539
@@ -2078,7 +1982,6 @@ Israel,376,Asia,Western Asia,1993,9.10488598081053,45393.793
 Israel,376,Asia,Western Asia,1992,8.96118188893116,43076.249
 Israel,376,Asia,Western Asia,1991,7.97613581523613,37022.032
 Israel,376,Asia,Western Asia,1990,8.12106701671711,36537.988
-Italy,380,Europe,Southern Europe,2011,6.55357583806806,397994.178
 Italy,380,Europe,Southern Europe,2010,6.69919067216769,405361.181
 Italy,380,Europe,Southern Europe,2009,6.66870493235887,401591.505
 Italy,380,Europe,Southern Europe,2008,7.46882331877271,447186.983
@@ -2100,7 +2003,6 @@ Italy,380,Europe,Southern Europe,1993,7.2346651257735,411917.777
 Italy,380,Europe,Southern Europe,1992,7.39149901877941,420535.227
 Italy,380,Europe,Southern Europe,1991,7.45564352889741,423894.199
 Italy,380,Europe,Southern Europe,1990,7.34711727594031,417550.289
-Jamaica,388,Americas,Caribbean,2011,2.81547619695869,7755.705
 Jamaica,388,Americas,Caribbean,2010,2.62302620659971,7190.987
 Jamaica,388,Americas,Caribbean,2009,3.14756453184646,8591.781
 Jamaica,388,Americas,Caribbean,2008,4.39954436819522,11961.754
@@ -2122,7 +2024,6 @@ Jamaica,388,Americas,Caribbean,1993,3.47968528146297,8415.765
 Jamaica,388,Americas,Caribbean,1992,3.37552044618189,8096.736
 Jamaica,388,Americas,Caribbean,1991,3.433181690074,8173.743
 Jamaica,388,Americas,Caribbean,1990,3.36744755541894,7964.724
-Japan,392,Asia,Eastern Asia,2011,9.328183832689,1187656.959
 Japan,392,Asia,Eastern Asia,2010,9.17858332213151,1168918.589
 Japan,392,Asia,Eastern Asia,2009,8.64548819126749,1101027.751
 Japan,392,Asia,Eastern Asia,2008,9.47799291190691,1206732.693
@@ -2144,7 +2045,6 @@ Japan,392,Asia,Eastern Asia,1993,8.96214090743555,1108248.074
 Japan,392,Asia,Eastern Asia,1992,9.11671667748129,1123000.415
 Japan,392,Asia,Eastern Asia,1991,8.9638222935702,1099883.647
 Japan,392,Asia,Eastern Asia,1990,8.9512818418529,1094287.805
-Jordan,400,Asia,Western Asia,2011,3.30681780872246,22258.69
 Jordan,400,Asia,Western Asia,2010,3.28149582449849,21180.592
 Jordan,400,Asia,Western Asia,2009,3.54164418625381,21891.99
 Jordan,400,Asia,Western Asia,2008,3.61166375298966,21349.274
@@ -2166,7 +2066,6 @@ Jordan,400,Asia,Western Asia,1993,3.05897032284876,12101.1
 Jordan,400,Asia,Western Asia,1992,3.2769682797467,12266.115
 Jordan,400,Asia,Western Asia,1991,2.76910285436033,9798.224
 Jordan,400,Asia,Western Asia,1990,3.09764019326756,10403.279
-Kazakhstan,398,Asia,Central Asia,2011,16.2604977960613,261761.461
 Kazakhstan,398,Asia,Central Asia,2010,15.5274480255072,247214.472
 Kazakhstan,398,Asia,Central Asia,2009,13.6049012319456,214189.47
 Kazakhstan,398,Asia,Central Asia,2008,14.7591136190003,229774.22
@@ -2186,7 +2085,6 @@ Kazakhstan,398,Asia,Central Asia,1995,10.722514590699,166731.156
 Kazakhstan,398,Asia,Central Asia,1994,12.6652902922207,199488.467
 Kazakhstan,398,Asia,Central Asia,1993,13.8800646238928,221105.432
 Kazakhstan,398,Asia,Central Asia,1992,16.2603460545318,261306.753
-Kenya,404,Africa,Eastern Africa,2011,0.32283085534794,13567.9
 Kenya,404,Africa,Eastern Africa,2010,0.303602388255315,12420.129
 Kenya,404,Africa,Eastern Africa,2009,0.310120238342333,12350.456
 Kenya,404,Africa,Eastern Africa,2008,0.264149223187919,10241.931
@@ -2208,7 +2106,6 @@ Kenya,404,Africa,Eastern Africa,1993,0.245657516668904,6347.577
 Kenya,404,Africa,Eastern Africa,1992,0.221306468709576,5540.837
 Kenya,404,Africa,Eastern Africa,1991,0.199712374308167,4840.44
 Kenya,404,Africa,Eastern Africa,1990,0.248361638200155,5823.196
-Kiribati,296,Oceania,Micronesia,2011,0.628100755667506,62.339
 Kiribati,296,Oceania,Micronesia,2010,0.637784803003796,62.339
 Kiribati,296,Oceania,Micronesia,2009,0.418989945155393,40.337
 Kiribati,296,Oceania,Micronesia,2008,0.58002572971149,55.005
@@ -2230,7 +2127,6 @@ Kiribati,296,Oceania,Micronesia,1993,0.295745681833456,22.002
 Kiribati,296,Oceania,Micronesia,1992,0.299615981697851,22.002
 Kiribati,296,Oceania,Micronesia,1991,0.30413447050855,22.002
 Kiribati,296,Oceania,Micronesia,1990,0.309712837837838,22.002
-"Korea, Democratic People's Republic of",408,Asia,Eastern Asia,2011,2.98719035880011,73578.355
 "Korea, Democratic People's Republic of",408,Asia,Eastern Asia,2010,2.95883201662658,72492.923
 "Korea, Democratic People's Republic of",408,Asia,Eastern Asia,2009,3.08669463744363,75228.505
 "Korea, Democratic People's Republic of",408,Asia,Eastern Asia,2008,3.22066376795741,78081.431
@@ -2252,7 +2148,6 @@ Kiribati,296,Oceania,Micronesia,1990,0.309712837837838,22.002
 "Korea, Democratic People's Republic of",408,Asia,Eastern Asia,1992,12.2570678982575,255413.884
 "Korea, Democratic People's Republic of",408,Asia,Eastern Asia,1991,12.2448982616711,251145.496
 "Korea, Democratic People's Republic of",408,Asia,Eastern Asia,1990,12.123908699067,244834.589
-"Korea, Republic of",410,Asia,Eastern Asia,2011,12.0951018865385,589426.246
 "Korea, Republic of",410,Asia,Eastern Asia,2010,11.6959863380331,566716.515
 "Korea, Republic of",410,Asia,Eastern Asia,2009,10.5649866815029,508862.256
 "Korea, Republic of",410,Asia,Eastern Asia,2008,10.6039551499677,507589.807
@@ -2274,7 +2169,6 @@ Kiribati,296,Oceania,Micronesia,1990,0.309712837837838,22.002
 "Korea, Republic of",410,Asia,Eastern Asia,1992,6.50217308237814,284280.508
 "Korea, Republic of",410,Asia,Eastern Asia,1991,6.02990951495716,261482.769
 "Korea, Republic of",410,Asia,Eastern Asia,1990,5.74657112470758,246943.114
-Kuwait,414,Asia,Western Asia,2011,29.1322246420062,91029.608
 Kuwait,414,Asia,Western Asia,2010,30.3673169362009,90846.258
 Kuwait,414,Asia,Western Asia,2009,30.0464513199879,85635.451
 Kuwait,414,Asia,Western Asia,2008,30.6159958789455,82731.187
@@ -2296,7 +2190,6 @@ Kuwait,414,Asia,Western Asia,1993,18.9211619153874,33274.358
 Kuwait,414,Asia,Western Asia,1992,11.1589564845549,21085.25
 Kuwait,414,Asia,Western Asia,1991,5.09618578441938,10190.593
 Kuwait,414,Asia,Western Asia,1990,23.4553523833197,48312.725
-Kyrgyzstan,417,Asia,Central Asia,2011,1.22427448250821,6615.268
 Kyrgyzstan,417,Asia,Central Asia,2010,1.15353745053403,6153.226
 Kyrgyzstan,417,Asia,Central Asia,2009,1.20696066145789,6354.911
 Kyrgyzstan,417,Asia,Central Asia,2008,1.09432694908908,5687.517
@@ -2316,7 +2209,6 @@ Kyrgyzstan,417,Asia,Central Asia,1995,0.966232482276762,4437.07
 Kyrgyzstan,417,Asia,Central Asia,1994,1.33191436811251,6050.55
 Kyrgyzstan,417,Asia,Central Asia,1993,1.84303536863903,8305.755
 Kyrgyzstan,417,Asia,Central Asia,1992,2.42642506191356,10861.654
-Lao People's Democratic Republic,418,Asia,South-Eastern Asia,2011,0.184437676210653,1202.776
 Lao People's Democratic Republic,418,Asia,South-Eastern Asia,2010,0.198953423957579,1272.449
 Lao People's Democratic Republic,418,Asia,South-Eastern Asia,2009,0.157375245055495,986.423
 Lao People's Democratic Republic,418,Asia,South-Eastern Asia,2008,0.159483424923446,979.089
@@ -2338,7 +2230,6 @@ Lao People's Democratic Republic,418,Asia,South-Eastern Asia,1993,0.060246514108
 Lao People's Democratic Republic,418,Asia,South-Eastern Asia,1992,0.061961476063886,278.692
 Lao People's Democratic Republic,418,Asia,South-Eastern Asia,1991,0.0579007949765901,253.023
 Lao People's Democratic Republic,418,Asia,South-Eastern Asia,1990,0.0552920000376956,234.688
-Latvia,428,Europe,Northern Europe,2011,3.76182378091864,7799.709
 Latvia,428,Europe,Northern Europe,2010,3.97656706301163,8313.089
 Latvia,428,Europe,Northern Europe,2009,3.49107978509111,7374.337
 Latvia,428,Europe,Northern Europe,2008,3.69571164938936,7902.385
@@ -2358,7 +2249,6 @@ Latvia,428,Europe,Northern Europe,1995,3.8748350072428,9640.543
 Latvia,428,Europe,Northern Europe,1994,4.48093958923659,11316.362
 Latvia,428,Europe,Northern Europe,1993,4.71401536165768,12108.434
 Latvia,428,Europe,Northern Europe,1992,5.18459498810174,13538.564
-Lebanon,422,Asia,Western Asia,2011,4.57504435469914,20487.529
 Lebanon,422,Asia,Western Asia,2010,4.62821174948607,20091.493
 Lebanon,422,Asia,Western Asia,2009,4.92424658411594,20912.901
 Lebanon,422,Asia,Western Asia,2008,4.12506927709117,17267.903
@@ -2380,14 +2270,12 @@ Lebanon,422,Asia,Western Asia,1993,4.01986030359252,11661.06
 Lebanon,422,Asia,Western Asia,1992,4.02583182487629,11360.366
 Lebanon,422,Asia,Western Asia,1991,3.45187654883445,9501.197
 Lebanon,422,Asia,Western Asia,1990,3.36715872141483,9101.494
-Lesotho,426,Africa,Southern Africa,2011,1.08410083980614,2200.2
 Lesotho,426,Africa,Southern Africa,2010,1.12442052226046,2258.872
 Lesotho,426,Africa,Southern Africa,2009,1.06147075717898,2112.192
 Lesotho,426,Africa,Southern Africa,2008,1.05610843530496,2082.856
 Lesotho,426,Africa,Southern Africa,2007,0.7537304733038,1474.134
 Lesotho,426,Africa,Southern Africa,2006,0.744582725430102,1444.798
 Lesotho,426,Africa,Southern Africa,2005,0.736886788337996,1419.129
-Liberia,430,Africa,Western Africa,2011,0.218418426662568,891.081
 Liberia,430,Africa,Western Africa,2010,0.202899198835773,803.073
 Liberia,430,Africa,Western Africa,2009,0.138180371797019,528.048
 Liberia,430,Africa,Western Africa,2008,0.156755739760842,575.719
@@ -2409,7 +2297,6 @@ Liberia,430,Africa,Western Africa,1993,0.160837421605115,322.696
 Liberia,430,Africa,Western Africa,1992,0.142799328822008,289.693
 Liberia,430,Africa,Western Africa,1991,0.138440316350929,286.026
 Liberia,430,Africa,Western Africa,1990,0.230181793799637,484.044
-Libyan Arab Jamahiriya,434,Africa,Northern Africa,2011,6.39342246969761,39020.547
 Libyan Arab Jamahiriya,434,Africa,Northern Africa,2010,10.9355373263504,66057.338
 Libyan Arab Jamahiriya,434,Africa,Northern Africa,2009,10.4482901250351,62316.998
 Libyan Arab Jamahiriya,434,Africa,Northern Africa,2008,9.51941607727328,55943.752
@@ -2431,12 +2318,10 @@ Libyan Arab Jamahiriya,434,Africa,Northern Africa,1993,8.5447625186457,38947.207
 Libyan Arab Jamahiriya,434,Africa,Northern Africa,1992,8.35581943364906,37260.387
 Libyan Arab Jamahiriya,434,Africa,Northern Africa,1991,9.83218614914732,42863.563
 Libyan Arab Jamahiriya,434,Africa,Northern Africa,1990,8.6341882304168,36780.01
-Liechtenstein,438,Europe,Western Europe,2011,,51.338
 Liechtenstein,438,Europe,Western Europe,2010,,58.672
 Liechtenstein,438,Europe,Western Europe,2009,,55.005
 Liechtenstein,438,Europe,Western Europe,2008,,69.673
 Liechtenstein,438,Europe,Western Europe,2007,,69.673
-Lithuania,440,Europe,Northern Europe,2011,4.513909092701,13740.249
 Lithuania,440,Europe,Northern Europe,2010,4.35959050428277,13377.216
 Lithuania,440,Europe,Northern Europe,2009,4.00276275776739,12416.462
 Lithuania,440,Europe,Northern Europe,2008,4.67925117153574,14708.337
@@ -2456,7 +2341,6 @@ Lithuania,440,Europe,Northern Europe,1995,4.46640577561845,16204.473
 Lithuania,440,Europe,Northern Europe,1994,4.75559535693583,17359.578
 Lithuania,440,Europe,Northern Europe,1993,4.76475916600101,17495.257
 Lithuania,440,Europe,Northern Europe,1992,6.00338540643173,22148.68
-Luxembourg,442,Europe,Western Europe,2011,20.9787159047774,10832.318
 Luxembourg,442,Europe,Western Europe,2010,21.5954340057296,10967.997
 Luxembourg,442,Europe,Western Europe,2009,20.8631684186013,10392.278
 Luxembourg,442,Europe,Western Europe,2008,22.4470275594591,10938.661
@@ -2478,7 +2362,6 @@ Luxembourg,442,Europe,Western Europe,1993,27.1875376438657,10788.314
 Luxembourg,442,Europe,Western Europe,1992,27.0104240386507,10571.961
 Luxembourg,442,Europe,Western Europe,1991,27.4770161352942,10615.965
 Luxembourg,442,Europe,Western Europe,1990,26.20177584536,10003.576
-Madagascar,450,Africa,Eastern Africa,2011,0.112992456178888,2449.556
 Madagascar,450,Africa,Eastern Africa,2010,0.0989833645263093,2086.523
 Madagascar,450,Africa,Eastern Africa,2009,0.0924993760884907,1895.839
 Madagascar,450,Africa,Eastern Africa,2008,0.09974082622962,1987.514
@@ -2500,7 +2383,6 @@ Madagascar,450,Africa,Eastern Africa,1993,0.0846864534449279,1070.764
 Madagascar,450,Africa,Eastern Africa,1992,0.085217189084809,1045.095
 Madagascar,450,Africa,Eastern Africa,1991,0.0903014699535655,1074.431
 Madagascar,450,Africa,Eastern Africa,1990,0.085435789451074,986.423
-Malawi,454,Africa,Eastern Africa,2011,0.0780488811570231,1206.443
 Malawi,454,Africa,Eastern Africa,2010,0.0808446608809264,1213.777
 Malawi,454,Africa,Eastern Africa,2009,0.0724676803625909,1056.096
 Malawi,454,Africa,Eastern Africa,2008,0.0811822178017339,1147.771
@@ -2522,7 +2404,6 @@ Malawi,454,Africa,Eastern Africa,1993,0.070716132168987,693.063
 Malawi,454,Africa,Eastern Africa,1992,0.0672572815185799,656.393
 Malawi,454,Africa,Eastern Africa,1991,0.0683467532755311,660.06
 Malawi,454,Africa,Eastern Africa,1990,0.0648228037255364,612.389
-Malaysia,458,Asia,South-Eastern Asia,2011,7.84773810381513,225692.849
 Malaysia,458,Asia,South-Eastern Asia,2010,7.94279221108767,224589.082
 Malaysia,458,Asia,South-Eastern Asia,2009,7.33892868611391,203951.206
 Malaysia,458,Asia,South-Eastern Asia,2008,7.62710697995645,208237.929
@@ -2544,7 +2425,6 @@ Malaysia,458,Asia,South-Eastern Asia,1993,4.65563992627939,91722.671
 Malaysia,458,Asia,South-Eastern Asia,1992,3.92073620815125,75298.178
 Malaysia,458,Asia,South-Eastern Asia,1991,3.66602729251789,68591.235
 Malaysia,458,Asia,South-Eastern Asia,1990,3.10760032742673,56592.811
-Maldives,462,Asia,Southern Asia,2011,3.32495993541468,1103.767
 Maldives,462,Asia,Southern Asia,2010,3.29889712429458,1074.431
 Maldives,462,Asia,Southern Asia,2009,3.33822498905087,1067.097
 Maldives,462,Asia,Southern Asia,2008,3.21315116156805,1008.425
@@ -2566,7 +2446,6 @@ Maldives,462,Asia,Southern Asia,1993,0.926125054042832,216.353
 Maldives,462,Asia,Southern Asia,1992,1.11041722438483,253.023
 Maldives,462,Asia,Southern Asia,1991,0.776476259556773,172.349
 Maldives,462,Asia,Southern Asia,1990,0.713493530499076,154.014
-Mali,466,Africa,Western Africa,2011,0.0867357849421821,1250.447
 Mali,466,Africa,Western Africa,2010,0.0883585332463032,1235.779
 Mali,466,Africa,Western Africa,2009,0.0846482737746857,1147.771
 Mali,466,Africa,Western Africa,2008,0.0814994391587526,1070.764
@@ -2588,7 +2467,6 @@ Mali,466,Africa,Western Africa,1993,0.0532735786210223,454.708
 Mali,466,Africa,Western Africa,1992,0.0533125917741302,443.707
 Mali,466,Africa,Western Africa,1991,0.0536712931707663,436.373
 Mali,466,Africa,Western Africa,1990,0.0529509675083054,421.705
-Malta,470,Europe,Southern Europe,2011,5.89154368649673,2511.895
 Malta,470,Europe,Southern Europe,2010,6.16436014672574,2618.238
 Malta,470,Europe,Southern Europe,2009,5.6539189163624,2390.884
 Malta,470,Europe,Southern Europe,2008,6.08267664141294,2559.566
@@ -2610,7 +2488,6 @@ Malta,470,Europe,Southern Europe,1993,6.87832956296346,2669.576
 Malta,470,Europe,Southern Europe,1992,5.32083350700234,2042.519
 Malta,470,Europe,Southern Europe,1991,5.46836130058938,2075.522
 Malta,470,Europe,Southern Europe,1990,5.80396221638977,2178.198
-Marshall Islands,584,Oceania,Micronesia,2011,,102.676
 Marshall Islands,584,Oceania,Micronesia,2010,,102.676
 Marshall Islands,584,Oceania,Micronesia,2009,,102.676
 Marshall Islands,584,Oceania,Micronesia,2008,,99.009
@@ -2632,7 +2509,6 @@ Marshall Islands,584,Oceania,Micronesia,1993,,62.339
 Marshall Islands,584,Oceania,Micronesia,1992,,55.005
 Marshall Islands,584,Oceania,Micronesia,1991,,51.338
 Marshall Islands,584,Oceania,Micronesia,1990,,47.671
-Martinique,474,Americas,Caribbean,2011,6.09811023896477,2449.556
 Martinique,474,Americas,Caribbean,2010,5.65406551732741,2266.206
 Martinique,474,Americas,Caribbean,2009,5.67408672089431,2269.873
 Martinique,474,Americas,Caribbean,2008,5.32589778711534,2126.86
@@ -2654,7 +2530,6 @@ Martinique,474,Americas,Caribbean,1993,5.53066222060126,2016.85
 Martinique,474,Americas,Caribbean,1992,5.63745064923973,2046.186
 Martinique,474,Americas,Caribbean,1991,5.09946092092214,1840.834
 Martinique,474,Americas,Caribbean,1990,5.7696801298897,2068.188
-Mauritania,478,Africa,Western Africa,2011,0.623915168213575,2310.21
 Mauritania,478,Africa,Western Africa,2010,0.59230042499903,2137.861
 Mauritania,478,Africa,Western Africa,2009,0.60593866402812,2130.527
 Mauritania,478,Africa,Western Africa,2008,0.565653520215747,1936.176
@@ -2676,7 +2551,6 @@ Mauritania,478,Africa,Western Africa,1993,1.3433112449307,2959.269
 Mauritania,478,Africa,Western Africa,1992,1.3736539313961,2940.934
 Mauritania,478,Africa,Western Africa,1991,1.32135890611037,2750.25
 Mauritania,478,Africa,Western Africa,1990,1.31704264923329,2665.909
-Mauritius,480,Africa,Eastern Africa,2011,3.17136957349119,3916.356
 Mauritius,480,Africa,Eastern Africa,2010,3.18232426691716,3916.356
 Mauritius,480,Africa,Eastern Africa,2009,3.01288920080108,3696.336
 Mauritius,480,Africa,Eastern Africa,2008,3.08147230196773,3769.676
@@ -2698,7 +2572,6 @@ Mauritius,480,Africa,Eastern Africa,1993,1.61572585894393,1774.828
 Mauritius,480,Africa,Eastern Africa,1992,1.57803887237424,1708.822
 Mauritius,480,Africa,Eastern Africa,1991,1.42436557535551,1521.805
 Mauritius,480,Africa,Eastern Africa,1990,1.38571976531091,1463.133
-Mexico,484,Americas,Central America,2011,3.90871249629266,466548.743
 Mexico,484,Americas,Central America,2010,3.77536149121997,445063.79
 Mexico,484,Americas,Central America,2009,3.87016526632183,450575.291
 Mexico,484,Americas,Central America,2008,4.12715976655042,474491.465
@@ -2720,8 +2593,7 @@ Mexico,484,Americas,Central America,1993,3.60539273068644,330448.038
 Mexico,484,Americas,Central America,1992,3.6620600571876,328698.879
 Mexico,484,Americas,Central America,1991,3.71343329090079,326374.001
 Mexico,484,Americas,Central America,1990,3.65127991675918,314291.236
-"Micronesia, Federated States of",583,Oceania,Micronesia,2011,1.24095954517327,128.345
-"Micronesia, Federated States of",583,Oceania,Micronesia,2010,1.16784566537025,121.011
+\"Micronesia, Federated States of",583,Oceania,Micronesia,2010,1.16784566537025,121.011
 "Micronesia, Federated States of",583,Oceania,Micronesia,2009,1.62220747622208,168.682
 "Micronesia, Federated States of",583,Oceania,Micronesia,2008,1.1580221631036,121.011
 "Micronesia, Federated States of",583,Oceania,Micronesia,2007,1.36077147777767,143.013
@@ -2735,7 +2607,6 @@ Mexico,484,Americas,Central America,1990,3.65127991675918,314291.236
 "Micronesia, Federated States of",583,Oceania,Micronesia,1999,1.0884535470466,117.344
 "Micronesia, Federated States of",583,Oceania,Micronesia,1998,0.745352747699471,80.674
 "Micronesia, Federated States of",583,Oceania,Micronesia,1997,0.709702689252208,77.007
-Mongolia,496,Asia,Eastern Asia,2011,6.92736135856066,19079.401
 Mongolia,496,Asia,Eastern Asia,2010,4.24320852216469,11510.713
 Mongolia,496,Asia,Eastern Asia,2009,4.13600885854212,11052.338
 Mongolia,496,Asia,Eastern Asia,2008,3.80929637037504,10029.245
@@ -2757,13 +2628,11 @@ Mongolia,496,Asia,Eastern Asia,1993,4.11544769762074,9314.18
 Mongolia,496,Asia,Eastern Asia,1992,4.93776846703291,11078.007
 Mongolia,496,Asia,Eastern Asia,1991,5.50396291689079,12207.443
 Mongolia,496,Asia,Eastern Asia,1990,4.59852648090181,10043.913
-Montenegro,499,Europe,Southern Europe,2011,4.14177370602149,2570.567
 Montenegro,499,Europe,Southern Europe,2010,4.1632955853941,2581.568
 Montenegro,499,Europe,Southern Europe,2009,2.94824412987885,1826.166
 Montenegro,499,Europe,Southern Europe,2008,4.44557414624448,2750.25
 Montenegro,499,Europe,Southern Europe,2007,3.64444480414373,2251.538
 Montenegro,499,Europe,Southern Europe,2006,3.86404238280047,2383.55
-Montserrat,500,Americas,Caribbean,2011,,80.674
 Montserrat,500,Americas,Caribbean,2010,,77.007
 Montserrat,500,Americas,Caribbean,2009,,77.007
 Montserrat,500,Americas,Caribbean,2008,,77.007
@@ -2785,7 +2654,6 @@ Montserrat,500,Americas,Caribbean,1993,,40.337
 Montserrat,500,Americas,Caribbean,1992,,40.337
 Montserrat,500,Americas,Caribbean,1991,,36.67
 Montserrat,500,Americas,Caribbean,1990,,40.337
-Morocco,504,Africa,Northern Africa,2011,1.7635315593942,56537.806
 Morocco,504,Africa,Northern Africa,2010,1.76846543683847,55958.42
 Morocco,504,Africa,Northern Africa,2009,1.6780009466513,52482.104
 Morocco,504,Africa,Northern Africa,2008,1.7089285721785,52900.142
@@ -2807,7 +2675,6 @@ Morocco,504,Africa,Northern Africa,1993,1.08527656075333,28217.565
 Morocco,504,Africa,Northern Africa,1992,1.01836962099851,26039.367
 Morocco,504,Africa,Northern Africa,1991,0.99394593232491,24975.937
 Morocco,504,Africa,Northern Africa,1990,0.954089759121935,23542.14
-Mozambique,508,Africa,Eastern Africa,2011,0.133514340353813,3281.965
 Mozambique,508,Africa,Eastern Africa,2010,0.119952276573902,2874.928
 Mozambique,508,Africa,Eastern Africa,2009,0.110036567316717,2570.567
 Mozambique,508,Africa,Eastern Africa,2008,0.102780601009774,2339.546
@@ -2829,7 +2696,6 @@ Mozambique,508,Africa,Eastern Africa,1993,0.0723885193918467,1078.098
 Mozambique,508,Africa,Eastern Africa,1992,0.0697602076700125,1001.091
 Mozambique,508,Africa,Eastern Africa,1991,0.0739019397927642,1026.76
 Mozambique,508,Africa,Eastern Africa,1990,0.0737834629364667,1001.091
-Myanmar,104,Asia,South-Eastern Asia,2011,0.199423053299147,10439.949
 Myanmar,104,Asia,South-Eastern Asia,2010,0.173071518370131,8987.817
 Myanmar,104,Asia,South-Eastern Asia,2009,0.201562131054633,10388.611
 Myanmar,104,Asia,South-Eastern Asia,2008,0.176420659405716,9028.154
@@ -2851,7 +2717,6 @@ Myanmar,104,Asia,South-Eastern Asia,1993,0.121282413726647,5342.819
 Myanmar,104,Asia,South-Eastern Asia,1992,0.112571124831058,4888.111
 Myanmar,104,Asia,South-Eastern Asia,1991,0.0977126404845059,4180.38
 Myanmar,104,Asia,South-Eastern Asia,1990,0.101505631020656,4275.722
-Namibia,516,Africa,Southern Africa,2011,1.25175706546393,2775.919
 Namibia,516,Africa,Southern Africa,2010,1.45908083968229,3179.289
 Namibia,516,Africa,Southern Africa,2009,1.48493537199475,3182.956
 Namibia,516,Africa,Southern Africa,2008,1.69556910182012,3578.992
@@ -2873,7 +2738,6 @@ Namibia,516,Africa,Southern Africa,1993,0.738347397850565,1151.438
 Namibia,516,Africa,Southern Africa,1992,0.741302870008305,1122.102
 Namibia,516,Africa,Southern Africa,1991,0.692806066492423,1015.759
 Namibia,516,Africa,Southern Africa,1990,0.0181349072059922,25.669
-Nauru,520,Oceania,Micronesia,2011,,51.338
 Nauru,520,Oceania,Micronesia,2010,,55.005
 Nauru,520,Oceania,Micronesia,2009,,51.338
 Nauru,520,Oceania,Micronesia,2008,,55.005
@@ -2895,7 +2759,6 @@ Nauru,520,Oceania,Micronesia,1993,,139.346
 Nauru,520,Oceania,Micronesia,1992,,143.013
 Nauru,520,Oceania,Micronesia,1991,,154.014
 Nauru,520,Oceania,Micronesia,1990,,157.681
-Nepal,524,Asia,Southern Asia,2011,0.159608757681026,4334.394
 Nepal,524,Asia,Southern Asia,2010,0.161317306821243,4330.727
 Nepal,524,Asia,Southern Asia,2009,0.136347213101946,3619.329
 Nepal,524,Asia,Southern Asia,2008,0.114832057952384,3014.274
@@ -2917,7 +2780,6 @@ Nepal,524,Asia,Southern Asia,1993,0.075022376799734,1466.8
 Nepal,524,Asia,Southern Asia,1992,0.0698718941000045,1331.121
 Nepal,524,Asia,Southern Asia,1991,0.0517384337550207,960.754
 Nepal,524,Asia,Southern Asia,1990,0.0350275520120147,634.391
-Netherlands,528,Europe,Western Europe,2011,10.0807149509612,168007.272
 Netherlands,528,Europe,Western Europe,2010,10.9494157864559,181927.204
 Netherlands,528,Europe,Western Europe,2009,10.2265067402391,169364.062
 Netherlands,528,Europe,Western Europe,2008,10.4920655011729,173163.074
@@ -2939,11 +2801,9 @@ Netherlands,528,Europe,Western Europe,1993,10.8345599728193,164802.314
 Netherlands,528,Europe,Western Europe,1992,10.7425830713098,162224.413
 Netherlands,528,Europe,Western Europe,1991,11.0152906752999,165154.346
 Netherlands,528,Europe,Western Europe,1990,10.6379967389598,158403.399
-New Caledonia,540,Oceania,Melanesia,2011,15.4292754597936,3854.017
 New Caledonia,540,Oceania,Melanesia,2010,15.9105402652012,3920.023
 New Caledonia,540,Oceania,Melanesia,2009,11.7289174481118,2849.259
 New Caledonia,540,Oceania,Melanesia,2008,13.7074665140814,3281.965
-New Caledonia,540,Oceania,Melanesia,2007,12.4829941201158,2944.601
 New Caledonia,540,Oceania,Melanesia,2006,11.9646259206171,2779.586
 New Caledonia,540,Oceania,Melanesia,2005,12.409638238149,2838.258
 New Caledonia,540,Oceania,Melanesia,2004,11.3388185953938,2552.232
@@ -2961,7 +2821,6 @@ New Caledonia,540,Oceania,Melanesia,1993,9.80877670031954,1771.161
 New Caledonia,540,Oceania,Melanesia,1992,10.0452648056353,1771.161
 New Caledonia,540,Oceania,Melanesia,1991,10.3872578042466,1789.496
 New Caledonia,540,Oceania,Melanesia,1990,9.63872028100654,1624.481
-New Zealand,554,Oceania,Australia and New Zealand,2011,7.0757552861706,31231.839
 New Zealand,554,Oceania,Australia and New Zealand,2010,7.26829155502484,31748.886
 New Zealand,554,Oceania,Australia and New Zealand,2009,7.47660863287285,32320.938
 New Zealand,554,Oceania,Australia and New Zealand,2008,8.00996380241532,34268.115
@@ -2983,7 +2842,6 @@ New Zealand,554,Oceania,Australia and New Zealand,1993,7.54791556027988,26904.77
 New Zealand,554,Oceania,Australia and New Zealand,1992,7.17358101694915,25129.951
 New Zealand,554,Oceania,Australia and New Zealand,1991,7.01581425447728,24176.531
 New Zealand,554,Oceania,Australia and New Zealand,1990,6.96388151441605,23663.151
-Nicaragua,558,Americas,Central America,2011,0.829634356203893,4899.112
 Nicaragua,558,Americas,Central America,2010,0.794215219687236,4624.087
 Nicaragua,558,Americas,Central America,2009,0.792992008641678,4554.414
 Nicaragua,558,Americas,Central America,2008,0.780242636578127,4422.402
@@ -3005,7 +2863,6 @@ Nicaragua,558,Americas,Central America,1993,0.517457083915027,2302.876
 Nicaragua,558,Americas,Central America,1992,0.551445207042596,2394.551
 Nicaragua,558,Americas,Central America,1991,0.473395349803193,2005.849
 Nicaragua,558,Americas,Central America,1990,0.615924498790175,2548.565
-Niger,562,Africa,Western Africa,2011,0.0861702010397383,1422.796
 Niger,562,Africa,Western Africa,2010,0.0851355621261344,1353.123
 Niger,562,Africa,Western Africa,2009,0.0752428878409571,1151.438
 Niger,562,Africa,Western Africa,2008,0.0622035914898294,916.75
@@ -3027,7 +2884,6 @@ Niger,562,Africa,Western Africa,1993,0.102899490834126,880.08
 Niger,562,Africa,Western Africa,1992,0.0948868764274058,784.738
 Niger,562,Africa,Western Africa,1991,0.102623944004404,821.408
 Niger,562,Africa,Western Africa,1990,0.107353492890745,832.409
-Nigeria,566,Africa,Western Africa,2011,0.536115274150819,88026.335
 Nigeria,566,Africa,Western Africa,2010,0.533606315233986,85221.08
 Nigeria,566,Africa,Western Africa,2009,0.462018198876542,71788.859
 Nigeria,566,Africa,Western Africa,2008,0.612952859397461,92683.425
@@ -3049,7 +2905,6 @@ Nigeria,566,Africa,Western Africa,1993,0.582305871915981,60061.793
 Nigeria,566,Africa,Western Africa,1992,0.64501890712407,64883.898
 Nigeria,566,Africa,Western Africa,1991,0.461303368851949,45247.113
 Nigeria,566,Africa,Western Africa,1990,0.474552557668666,45375.458
-Niue,570,Oceania,Polynesia,2011,,11.001
 Niue,570,Oceania,Polynesia,2010,,11.001
 Niue,570,Oceania,Polynesia,2009,,11.001
 Niue,570,Oceania,Polynesia,2008,,11.001
@@ -3071,7 +2926,6 @@ Niue,570,Oceania,Polynesia,1993,,3.667
 Niue,570,Oceania,Polynesia,1992,,3.667
 Niue,570,Oceania,Polynesia,1991,,3.667
 Niue,570,Oceania,Polynesia,1990,,3.667
-Norway,578,Europe,Northern Europe,2011,9.21023558211028,45533.139
 Norway,578,Europe,Northern Europe,2010,11.6114458243914,56794.496
 Norway,578,Europe,Northern Europe,2009,10.8031616983023,52240.082
 Norway,578,Europe,Northern Europe,2008,10.5329653367568,50325.908
@@ -3093,7 +2947,6 @@ Norway,578,Europe,Northern Europe,1993,7.41720681658601,31965.239
 Norway,578,Europe,Northern Europe,1992,6.91984630045848,29655.029
 Norway,578,Europe,Northern Europe,1991,7.44693077813337,31741.552
 Norway,578,Europe,Northern Europe,1990,7.40166919199363,31385.853
-Oman,512,Asia,Western Asia,2011,21.4411265106087,64854.562
 Oman,512,Asia,Western Asia,2010,20.084472564265,56292.117
 Oman,512,Asia,Western Asia,2009,14.4437080771276,38466.83
 Oman,512,Asia,Western Asia,2008,14.807846701186,38404.491
@@ -3115,7 +2968,6 @@ Oman,512,Asia,Western Asia,1993,6.58437838811064,13457.89
 Oman,512,Asia,Western Asia,1992,6.14529102262633,12079.098
 Oman,512,Asia,Western Asia,1991,6.24448021151851,11771.07
 Oman,512,Asia,Western Asia,1990,6.29026911728228,11386.035
-Pakistan,586,Asia,Southern Asia,2011,0.927832444825602,163452.858
 Pakistan,586,Asia,Southern Asia,2010,0.940187412590611,162792.798
 Pakistan,586,Asia,Southern Asia,2009,0.942329364600335,160284.57
 Pakistan,586,Asia,Southern Asia,2008,0.95247361769909,159070.793
@@ -3137,7 +2989,6 @@ Pakistan,586,Asia,Southern Asia,1993,0.648248429103794,78008.091
 Pakistan,586,Asia,Southern Asia,1992,0.62059097898989,72789.95
 Pakistan,586,Asia,Southern Asia,1991,0.597420683396007,68242.87
 Pakistan,586,Asia,Southern Asia,1990,0.617202479782341,68565.566
-Palau,585,Oceania,Micronesia,2011,,223.687
 Palau,585,Oceania,Micronesia,2010,,216.353
 Palau,585,Oceania,Micronesia,2009,,209.019
 Palau,585,Oceania,Micronesia,2008,,209.019
@@ -3157,7 +3008,6 @@ Palau,585,Oceania,Micronesia,1995,,113.677
 Palau,585,Oceania,Micronesia,1994,,110.01
 Palau,585,Oceania,Micronesia,1993,,110.01
 Palau,585,Oceania,Micronesia,1992,,113.677
-Panama,591,Americas,Central America,2011,2.58435380006107,9666.212
 Panama,591,Americas,Central America,2010,2.41068445687589,8866.806
 Panama,591,Americas,Central America,2009,2.37817512139621,8599.115
 Panama,591,Americas,Central America,2008,2.07524370476265,7374.337
@@ -3179,7 +3029,6 @@ Panama,591,Americas,Central America,1993,1.48984928505073,3942.025
 Panama,591,Americas,Central America,1992,1.63819225752541,4246.386
 Panama,591,Americas,Central America,1991,1.27810794205912,3245.295
 Panama,591,Americas,Central America,1990,1.1133230335181,2768.585
-Papua New Guinea,598,Oceania,Melanesia,2011,0.745637979420151,5229.142
 Papua New Guinea,598,Oceania,Melanesia,2010,0.680049774418661,4664.424
 Papua New Guinea,598,Oceania,Melanesia,2009,0.759670828294055,5093.463
 Papua New Guinea,598,Oceania,Melanesia,2008,0.732182271167662,4796.436
@@ -3201,7 +3050,6 @@ Papua New Guinea,598,Oceania,Melanesia,1993,0.445254420351753,1994.848
 Papua New Guinea,598,Oceania,Melanesia,1992,0.470011240334651,2053.52
 Papua New Guinea,598,Oceania,Melanesia,1991,0.484424997248813,2064.521
 Papua New Guinea,598,Oceania,Melanesia,1990,0.515050014394275,2141.528
-Paraguay,600,Americas,South America,2011,0.806136741934585,5298.815
 Paraguay,600,Americas,South America,2010,0.785657461057529,5075.128
 Paraguay,600,Americas,South America,2009,0.71174907832094,4517.744
 Paraguay,600,Americas,South America,2008,0.6979996007059,4352.729
@@ -3223,7 +3071,6 @@ Paraguay,600,Americas,South America,1993,0.644331742113202,2951.935
 Paraguay,600,Americas,South America,1992,0.586433394006711,2621.905
 Paraguay,600,Americas,South America,1991,0.512160469392651,2233.203
 Paraguay,600,Americas,South America,1990,0.532393810737439,2262.539
-Peru,604,Americas,South America,2011,1.79196442653994,53068.824
 Peru,604,Americas,South America,2010,1.9771814961164,57857.926
 Peru,604,Americas,South America,2009,1.77518252297282,51363.669
 Peru,604,Americas,South America,2008,1.44217223810775,41283.086
@@ -3245,7 +3092,6 @@ Peru,604,Americas,South America,1993,1.0205822049339,23556.808
 Peru,604,Americas,South America,1992,0.900170828533398,20388.52
 Peru,604,Americas,South America,1991,0.919170126409068,20417.856
 Peru,604,Americas,South America,1990,0.972329458408458,21169.591
-Philippines,608,Asia,South-Eastern Asia,2011,0.862803677472494,82012.455
 Philippines,608,Asia,South-Eastern Asia,2010,0.874325568973576,81700.76
 Philippines,608,Asia,South-Eastern Asia,2009,0.813883207961135,74784.798
 Philippines,608,Asia,South-Eastern Asia,2008,0.840350652525287,75943.57
@@ -3267,7 +3113,6 @@ Philippines,608,Asia,South-Eastern Asia,1993,0.743906591817726,49482.498
 Philippines,608,Asia,South-Eastern Asia,1992,0.75008284675975,48752.765
 Philippines,608,Asia,South-Eastern Asia,1991,0.692078096555149,43930.66
 Philippines,608,Asia,South-Eastern Asia,1990,0.674162187260528,41763.463
-Poland,616,Europe,Eastern Europe,2011,8.30494735214855,317287.175
 Poland,616,Europe,Eastern Europe,2010,8.30084203793663,317081.823
 Poland,616,Europe,Eastern Europe,2009,7.80875629107511,298244.444
 Poland,616,Europe,Eastern Europe,2008,8.25920905185647,315417.005
@@ -3289,7 +3134,6 @@ Poland,616,Europe,Eastern Europe,1993,9.19642822275426,353242.11
 Poland,616,Europe,Eastern Europe,1992,9.25176462230189,354738.246
 Poland,616,Europe,Eastern Europe,1991,9.45301894906252,361628.539
 Poland,616,Europe,Eastern Europe,1990,9.6565756688922,368397.821
-Portugal,620,Europe,Southern Europe,2011,4.69204196523581,49724.52
 Portugal,620,Europe,Southern Europe,2010,4.68270207762343,49588.841
 Portugal,620,Europe,Southern Europe,2009,5.15253509866528,54517.289
 Portugal,620,Europe,Southern Europe,2008,5.23793654819766,55364.366
@@ -3311,7 +3155,6 @@ Portugal,620,Europe,Southern Europe,1993,4.68080258804929,46812.922
 Portugal,620,Europe,Southern Europe,1992,4.84116989946176,48195.381
 Portugal,620,Europe,Southern Europe,1991,4.42888727127272,43934.327
 Portugal,620,Europe,Southern Europe,1990,4.26247609715691,42196.169
-Qatar,634,Asia,Western Asia,2011,43.893036377585,83875.291
 Qatar,634,Asia,Western Asia,2010,43.024109096749,75279.843
 Qatar,634,Asia,Western Asia,2009,45.6123687888487,71341.485
 Qatar,634,Asia,Western Asia,2008,49.6689777310807,67505.803
@@ -3333,7 +3176,6 @@ Qatar,634,Asia,Western Asia,1993,62.4438532020586,30722.126
 Qatar,634,Asia,Western Asia,1992,54.742186574511,26802.103
 Qatar,634,Asia,Western Asia,1991,36.4334847020071,17674.94
 Qatar,634,Asia,Western Asia,1990,24.7100040502228,11774.737
-Republic of Moldova,498,Europe,Eastern Europe,2011,1.40555664693158,4979.786
 Republic of Moldova,498,Europe,Eastern Europe,2010,1.38140186016103,4935.782
 Republic of Moldova,498,Europe,Eastern Europe,2009,1.26266606882537,4550.747
 Republic of Moldova,498,Europe,Eastern Europe,2008,1.31291650511067,4774.434
@@ -3353,7 +3195,6 @@ Republic of Moldova,498,Europe,Eastern Europe,1995,2.57927519675249,11191.684
 Republic of Moldova,498,Europe,Eastern Europe,1994,2.77209379643047,12090.099
 Republic of Moldova,498,Europe,Eastern Europe,1993,3.57258386754921,15628.754
 Republic of Moldova,498,Europe,Eastern Europe,1992,4.78895644888406,20971.573
-Reunion,638,Africa,Eastern Africa,2011,5.2754443953206,4510.41
 Reunion,638,Africa,Eastern Africa,2010,5.17109352707088,4367.397
 Reunion,638,Africa,Eastern Africa,2009,5.09579128858365,4250.053
 Reunion,638,Africa,Eastern Africa,2008,4.9570605274824,4081.371
@@ -3375,7 +3216,6 @@ Reunion,638,Africa,Eastern Africa,1993,2.71211477857537,1756.493
 Reunion,638,Africa,Eastern Africa,1992,2.72061350794924,1727.157
 Reunion,638,Africa,Eastern Africa,1991,2.76306970078659,1719.823
 Reunion,638,Africa,Eastern Africa,1990,2.37827515386959,1452.132
-Romania,642,Europe,Eastern Europe,2011,3.88979991729076,84832.378
 Romania,642,Europe,Eastern Europe,2010,3.62901137141884,79335.545
 Romania,642,Europe,Eastern Europe,2009,3.71564424928757,81422.068
 Romania,642,Europe,Eastern Europe,2008,4.35549868012519,95668.363
@@ -3397,7 +3237,6 @@ Romania,642,Europe,Eastern Europe,1993,5.203150575389,120699.305
 Romania,642,Europe,Eastern Europe,1992,5.2916162279186,123262.538
 Romania,642,Europe,Eastern Europe,1991,5.88849170581029,137530.835
 Romania,642,Europe,Eastern Europe,1990,6.79706860756763,158861.774
-Russian Federation,643,Europe,Eastern Europe,2011,12.6052448165952,1808073.022
 Russian Federation,643,Europe,Eastern Europe,2010,12.1331665987933,1742540.065
 Russian Federation,643,Europe,Eastern Europe,2009,10.9567166524435,1574367.778
 Russian Federation,643,Europe,Eastern Europe,2008,11.9409408530868,1715638.953
@@ -3417,7 +3256,6 @@ Russian Federation,643,Europe,Eastern Europe,1995,10.9979045390239,1634312.227
 Russian Federation,643,Europe,Eastern Europe,1994,11.4351379609317,1701132.301
 Russian Federation,643,Europe,Eastern Europe,1993,13.0419815276369,1941203.457
 Russian Federation,643,Europe,Eastern Europe,1992,13.9910178232431,2081840.241
-Rwanda,646,Africa,Eastern Africa,2011,0.0595574514898404,663.727
 Rwanda,646,Africa,Eastern Africa,2010,0.0544801698519443,590.387
 Rwanda,646,Africa,Eastern Africa,2009,0.0546758929151423,575.719
 Rwanda,646,Africa,Eastern Africa,2008,0.0530879458505221,542.716
@@ -3439,7 +3277,6 @@ Rwanda,646,Africa,Eastern Africa,1993,0.0816061868681041,495.045
 Rwanda,646,Africa,Eastern Africa,1992,0.0745154390307253,487.711
 Rwanda,646,Africa,Eastern Africa,1991,0.0699361196639242,487.711
 Rwanda,646,Africa,Eastern Africa,1990,0.075223682328403,542.716
-Saint Helena,654,Africa,Western Africa,2011,,11.001
 Saint Helena,654,Africa,Western Africa,2010,,11.001
 Saint Helena,654,Africa,Western Africa,2009,,11.001
 Saint Helena,654,Africa,Western Africa,2008,,11.001
@@ -3461,7 +3298,6 @@ Saint Helena,654,Africa,Western Africa,1993,,11.001
 Saint Helena,654,Africa,Western Africa,1992,,7.334
 Saint Helena,654,Africa,Western Africa,1991,,7.334
 Saint Helena,654,Africa,Western Africa,1990,,7.334
-Saint Kitts and Nevis,659,Americas,Caribbean,2011,,267.691
 Saint Kitts and Nevis,659,Americas,Caribbean,2010,,260.357
 Saint Kitts and Nevis,659,Americas,Caribbean,2009,,260.357
 Saint Kitts and Nevis,659,Americas,Caribbean,2008,,249.356
@@ -3483,7 +3319,6 @@ Saint Kitts and Nevis,659,Americas,Caribbean,1993,,84.341
 Saint Kitts and Nevis,659,Americas,Caribbean,1992,,73.34
 Saint Kitts and Nevis,659,Americas,Caribbean,1991,,73.34
 Saint Kitts and Nevis,659,Americas,Caribbean,1990,,66.006
-Saint Lucia,662,Americas,Caribbean,2011,2.2705122412437,407.037
 Saint Lucia,662,Americas,Caribbean,2010,2.27382650213927,403.37
 Saint Lucia,662,Americas,Caribbean,2009,2.19768835616438,385.035
 Saint Lucia,662,Americas,Caribbean,2008,2.29275070339366,396.036
@@ -3505,7 +3340,6 @@ Saint Lucia,662,Americas,Caribbean,1993,1.58333333333333,227.354
 Saint Lucia,662,Americas,Caribbean,1992,1.44681330759367,205.352
 Saint Lucia,662,Americas,Caribbean,1991,1.22966773450153,172.349
 Saint Lucia,662,Americas,Caribbean,1990,1.19420321320017,165.015
-Saint Pierre and Miquelon,666,Americas,Northern America,2011,,69.673
 Saint Pierre and Miquelon,666,Americas,Northern America,2010,,69.673
 Saint Pierre and Miquelon,666,Americas,Northern America,2009,,66.006
 Saint Pierre and Miquelon,666,Americas,Northern America,2008,,66.006
@@ -3527,7 +3361,6 @@ Saint Pierre and Miquelon,666,Americas,Northern America,1993,,73.34
 Saint Pierre and Miquelon,666,Americas,Northern America,1992,,95.342
 Saint Pierre and Miquelon,666,Americas,Northern America,1991,,102.676
 Saint Pierre and Miquelon,666,Americas,Northern America,1990,,91.675
-Saint Vincent and the Grenadines,670,Americas,Caribbean,2011,2.17960441489799,238.355
 Saint Vincent and the Grenadines,670,Americas,Caribbean,2010,2.14687694390574,234.688
 Saint Vincent and the Grenadines,670,Americas,Caribbean,2009,2.11462805151534,231.021
 Saint Vincent and the Grenadines,670,Americas,Caribbean,2008,2.11639091958446,231.021
@@ -3549,7 +3382,6 @@ Saint Vincent and the Grenadines,670,Americas,Caribbean,1993,0.949850597148857,1
 Saint Vincent and the Grenadines,670,Americas,Caribbean,1992,0.780927954370793,84.341
 Saint Vincent and the Grenadines,670,Americas,Caribbean,1991,0.71427776386454,77.007
 Saint Vincent and the Grenadines,670,Americas,Caribbean,1990,0.750392990354296,80.674
-Samoa,882,Oceania,Polynesia,2011,1.25214347833046,234.688
 Samoa,882,Oceania,Polynesia,2010,1.10387090184864,205.352
 Samoa,882,Oceania,Polynesia,2009,1.0720829002079,198.018
 Samoa,882,Oceania,Polynesia,2008,1.03946708532304,190.684
@@ -3571,7 +3403,6 @@ Samoa,882,Oceania,Polynesia,1993,0.767586091408204,128.345
 Samoa,882,Oceania,Polynesia,1992,0.775179986470815,128.345
 Samoa,882,Oceania,Polynesia,1991,0.759893462056524,124.678
 Samoa,882,Oceania,Polynesia,1990,0.765529733214625,124.678
-Sao Tome and Principe,678,Africa,Middle Africa,2011,0.560528887360313,102.676
 Sao Tome and Principe,678,Africa,Middle Africa,2010,0.55551877370559,99.009
 Sao Tome and Principe,678,Africa,Middle Africa,2009,0.529179173401062,91.675
 Sao Tome and Principe,678,Africa,Middle Africa,2008,0.501274865827058,84.341
@@ -3593,7 +3424,6 @@ Sao Tome and Principe,678,Africa,Middle Africa,1993,0.379461584996975,47.671
 Sao Tome and Principe,678,Africa,Middle Africa,1992,0.387792953656176,47.671
 Sao Tome and Principe,678,Africa,Middle Africa,1991,0.396749171896067,47.671
 Sao Tome and Principe,678,Africa,Middle Africa,1990,0.406073512500532,47.671
-Saudi Arabia,682,Asia,Western Asia,2011,18.7408228695274,520277.627
 Saudi Arabia,682,Asia,Western Asia,2010,19.5570556687745,533093.792
 Saudi Arabia,682,Asia,Western Asia,2009,18.0949876988958,484880.076
 Saudi Arabia,682,Asia,Western Asia,2008,15.8626263437673,418239.685
@@ -3615,7 +3445,6 @@ Saudi Arabia,682,Asia,Western Asia,1993,17.6718378479314,313818.193
 Saudi Arabia,682,Asia,Western Asia,1992,16.5396792664432,285534.622
 Saudi Arabia,682,Asia,Western Asia,1991,15.9957996749681,267768.007
 Saudi Arabia,682,Asia,Western Asia,1990,13.4485435032461,217948.145
-Senegal,686,Africa,Western Africa,2011,0.589493364095324,7858.381
 Senegal,686,Africa,Western Africa,2010,0.638794727395656,8272.752
 Senegal,686,Africa,Western Africa,2009,0.464681448311,5848.865
 Senegal,686,Africa,Western Africa,2008,0.444637709721491,5441.828
@@ -3637,13 +3466,11 @@ Senegal,686,Africa,Western Africa,1993,0.43641052507072,3593.66
 Senegal,686,Africa,Western Africa,1992,0.435489542693701,3479.983
 Senegal,686,Africa,Western Africa,1991,0.441955113589,3424.978
 Senegal,686,Africa,Western Africa,1990,0.423597205790173,3182.956
-Serbia,688,Europe,Southern Europe,2011,5.12486760755216,49185.471
 Serbia,688,Europe,Southern Europe,2010,4.75560471017794,45877.837
 Serbia,688,Europe,Southern Europe,2009,4.75444355710503,46127.193
 Serbia,688,Europe,Southern Europe,2008,5.31511507505857,51880.716
 Serbia,688,Europe,Southern Europe,2007,5.31885687563284,52251.083
 Serbia,688,Europe,Southern Europe,2006,5.43677474814286,53765.554
-Seychelles,690,Africa,Eastern Africa,2011,6.51119293238488,597.721
 Seychelles,690,Africa,Eastern Africa,2010,7.55850364003158,689.396
 Seychelles,690,Africa,Eastern Africa,2009,8.17794804420548,740.734
 Seychelles,690,Africa,Eastern Africa,2008,7.70909434717804,693.063
@@ -3665,7 +3492,6 @@ Seychelles,690,Africa,Eastern Africa,1993,2.21409850013036,161.348
 Seychelles,690,Africa,Eastern Africa,1992,2.30825721439662,165.015
 Seychelles,690,Africa,Eastern Africa,1991,2.03412178019258,143.013
 Seychelles,690,Africa,Eastern Africa,1990,1.63625241097389,113.677
-Sierra Leone,694,Africa,Western Africa,2011,0.153169615297338,898.415
 Sierra Leone,694,Africa,Western Africa,2010,0.126228968966491,726.066
 Sierra Leone,694,Africa,Western Africa,2009,0.115707310985535,652.726
 Sierra Leone,694,Africa,Western Africa,2008,0.119976558795793,663.727
@@ -3687,7 +3513,6 @@ Sierra Leone,694,Africa,Western Africa,1993,0.0725786772373037,289.693
 Sierra Leone,694,Africa,Western Africa,1992,0.0727628090174689,293.36
 Sierra Leone,694,Africa,Western Africa,1991,0.115802180814096,469.376
 Sierra Leone,694,Africa,Western Africa,1990,0.0961496315066399,388.702
-Singapore,702,Asia,South-Eastern Asia,2011,4.31309316331878,22394.369
 Singapore,702,Asia,South-Eastern Asia,2010,2.65406069617673,13479.892
 Singapore,702,Asia,South-Eastern Asia,2009,4.80063158802267,23831.833
 Singapore,702,Asia,South-Eastern Asia,2008,4.91814693330715,23846.501
@@ -3709,7 +3534,6 @@ Singapore,702,Asia,South-Eastern Asia,1993,16.597564658656,54627.299
 Singapore,702,Asia,South-Eastern Asia,1992,15.7427221530789,50267.236
 Singapore,702,Asia,South-Eastern Asia,1991,15.2980186091071,47425.311
 Singapore,702,Asia,South-Eastern Asia,1990,15.5619960058401,46941.267
-Slovakia,703,Europe,Eastern Europe,2011,6.31854033259115,34374.458
 Slovakia,703,Europe,Eastern Europe,2010,6.66998825973321,36240.961
 Slovakia,703,Europe,Eastern Europe,2009,6.27406782322871,34037.094
 Slovakia,703,Europe,Eastern Europe,2008,6.9636945072177,37711.428
@@ -3729,7 +3553,6 @@ Slovakia,703,Europe,Eastern Europe,1995,7.85304636440765,42115.495
 Slovakia,703,Europe,Eastern Europe,1994,7.55463255370442,40421.341
 Slovakia,703,Europe,Eastern Europe,1993,8.03759696984011,42881.898
 Slovakia,703,Europe,Eastern Europe,1992,8.30928636739932,44183.683
-Slovenia,705,Europe,Southern Europe,2011,7.47110844481346,15405.067
 Slovenia,705,Europe,Southern Europe,2010,7.50989615583829,15427.069
 Slovenia,705,Europe,Southern Europe,2009,7.53042977173024,15394.066
 Slovenia,705,Europe,Southern Europe,2008,8.48519338538822,17245.901
@@ -3749,7 +3572,6 @@ Slovenia,705,Europe,Southern Europe,1995,7.23146344500183,14403.976
 Slovenia,705,Europe,Southern Europe,1994,6.6859381530927,13340.546
 Slovenia,705,Europe,Southern Europe,1993,6.58374963554281,13164.53
 Slovenia,705,Europe,Southern Europe,1992,6.22894210620368,12478.801
-Solomon Islands,090,Oceania,Melanesia,2011,0.368065249434476,198.018
 Solomon Islands,090,Oceania,Melanesia,2010,0.376140428191252,198.018
 Solomon Islands,090,Oceania,Melanesia,2009,0.377406964370325,194.351
 Solomon Islands,090,Oceania,Melanesia,2008,0.378686144723071,190.684
@@ -3771,7 +3593,6 @@ Solomon Islands,090,Oceania,Melanesia,1993,0.464464343574185,157.681
 Solomon Islands,090,Oceania,Melanesia,1992,0.48895704034135,161.348
 Solomon Islands,090,Oceania,Melanesia,1991,0.503011559900737,161.348
 Solomon Islands,090,Oceania,Melanesia,1990,0.517391429826615,161.348
-Somalia,706,Africa,Eastern Africa,2011,0.058107048484427,575.719
 Somalia,706,Africa,Eastern Africa,2010,0.0635510591185941,612.389
 Somalia,706,Africa,Eastern Africa,2009,0.0637171199978168,597.721
 Somalia,706,Africa,Eastern Africa,2008,0.0657955097333675,601.388
@@ -3789,7 +3610,6 @@ Somalia,706,Africa,Eastern Africa,1993,0.0017547570329054,11.001
 Somalia,706,Africa,Eastern Africa,1992,0.00174785037917756,11.001
 Somalia,706,Africa,Eastern Africa,1991,0.000580264579760745,3.667
 Somalia,706,Africa,Eastern Africa,1990,0.00290036644117049,18.335
-South Africa,710,Africa,Southern Africa,2011,9.18672810533691,477241.715
 South Africa,710,Africa,Southern Africa,2010,8.84216181215584,454950.022
 South Africa,710,Africa,Southern Africa,2009,9.38908869745598,477806.433
 South Africa,710,Africa,Southern Africa,2008,9.33187618207617,469089.974
@@ -3811,7 +3631,6 @@ South Africa,710,Africa,Southern Africa,1993,8.10389174140515,321104.522
 South Africa,710,Africa,Southern Africa,1992,7.96443270502947,307822.648
 South Africa,710,Africa,Southern Africa,1991,8.82427541720453,332618.902
 South Africa,710,Africa,Southern Africa,1990,8.6916300410752,319795.403
-Spain,724,Europe,Southern Europe,2011,5.81922124846528,270675.938
 Spain,724,Europe,Southern Europe,2010,5.8655118251819,270881.29
 Spain,724,Europe,Southern Europe,2009,6.29967940693616,288237.201
 Spain,724,Europe,Southern Europe,2008,7.27801337393419,329281.932
@@ -3833,7 +3652,6 @@ Spain,724,Europe,Southern Europe,1993,5.59363950989246,219253.597
 Spain,724,Europe,Southern Europe,1992,5.98571756434033,233921.597
 Spain,724,Europe,Southern Europe,1991,5.78950815211702,225634.177
 Spain,724,Europe,Southern Europe,1990,5.62191577331456,218597.204
-Sri Lanka,144,Asia,Southern Asia,2011,0.727948899937167,15232.718
 Sri Lanka,144,Asia,Southern Asia,2010,0.644942412075392,13388.217
 Sri Lanka,144,Asia,Southern Asia,2009,0.639537254832292,13175.531
 Sri Lanka,144,Asia,Southern Asia,2008,0.596871308957727,12207.443
@@ -3855,7 +3673,6 @@ Sri Lanka,144,Asia,Southern Asia,1993,0.281349632309922,5042.125
 Sri Lanka,144,Asia,Southern Asia,1992,0.292395483661702,5185.138
 Sri Lanka,144,Asia,Southern Asia,1991,0.238221919907447,4176.713
 Sri Lanka,144,Asia,Southern Asia,1990,0.223313907655269,3868.685
-State of Palestine,275,Asia,Western Asia,2011,0.546369050208801,2247.871
 State of Palestine,275,Asia,Western Asia,2010,0.507163184545763,2035.185
 State of Palestine,275,Asia,Western Asia,2009,0.53402435082977,2090.19
 State of Palestine,275,Asia,Western Asia,2008,0.537915537998052,2053.52
@@ -3870,7 +3687,6 @@ State of Palestine,275,Asia,Western Asia,2000,0.247169356781498,792.072
 State of Palestine,275,Asia,Western Asia,1999,0.209377180478014,649.059
 State of Palestine,275,Asia,Western Asia,1998,0.201769934069503,601.388
 State of Palestine,275,Asia,Western Asia,1997,0.138862893422249,396.036
-Sudan (former),729,Africa,Northern Africa,2011,,16578.507
 Sudan (former),729,Africa,Northern Africa,2010,,15779.101
 Sudan (former),729,Africa,Northern Africa,2009,,15427.069
 Sudan (former),729,Africa,Northern Africa,2008,,13930.933
@@ -3892,7 +3708,6 @@ Sudan (former),729,Africa,Northern Africa,1993,,2907.931
 Sudan (former),729,Africa,Northern Africa,1992,,4756.099
 Sudan (former),729,Africa,Northern Africa,1991,,5386.823
 Sudan (former),729,Africa,Northern Africa,1990,,5559.172
-Suriname,740,Americas,South America,2011,3.6063564513054,1910.507
 Suriname,740,Americas,South America,2010,4.56139705882353,2394.551
 Suriname,740,Americas,South America,2009,4.75846497223039,2475.225
 Suriname,740,Americas,South America,2008,4.76010144128901,2453.223
@@ -3914,7 +3729,6 @@ Suriname,740,Americas,South America,1993,5.08146095219242,2156.196
 Suriname,740,Americas,South America,1992,5.04464294244089,2112.192
 Suriname,740,Americas,South America,1991,5.08905891243061,2101.191
 Suriname,740,Americas,South America,1990,4.45343737400556,1811.498
-Swaziland,748,Africa,Southern Africa,2011,0.865201677337709,1048.762
 Swaziland,748,Africa,Southern Africa,2010,0.869767204068565,1037.761
 Swaziland,748,Africa,Southern Africa,2009,0.890444397867218,1045.095
 Swaziland,748,Africa,Southern Africa,2008,0.950173710860893,1096.433
@@ -3936,7 +3750,6 @@ Swaziland,748,Africa,Southern Africa,1993,0.142527077683152,132.012
 Swaziland,748,Africa,Southern Africa,1992,0.290792303956068,264.024
 Swaziland,748,Africa,Southern Africa,1991,0.367837402845653,326.363
 Swaziland,748,Africa,Southern Africa,1990,0.493054589627322,425.372
-Sweden,752,Europe,Northern Europe,2011,5.51856631916829,52144.74
 Sweden,752,Europe,Northern Europe,2010,5.6035082880024,52573.779
 Sweden,752,Europe,Northern Europe,2009,4.69841643041386,43743.643
 Sweden,752,Europe,Northern Europe,2008,5.31750204476423,49104.797
@@ -3958,7 +3771,6 @@ Sweden,752,Europe,Northern Europe,1993,5.92343782546495,51756.038
 Sweden,752,Europe,Northern Europe,1992,5.88010572280698,51026.305
 Sweden,752,Europe,Northern Europe,1991,5.97978386903785,51525.017
 Sweden,752,Europe,Northern Europe,1990,6.06917544084915,51946.722
-Switzerland,756,Europe,Western Europe,2011,4.62359258136244,36596.66
 Switzerland,756,Europe,Western Europe,2010,4.9489416686014,38752.856
 Switzerland,756,Europe,Western Europe,2009,5.3730287411427,41602.115
 Switzerland,756,Europe,Western Europe,2008,5.27788811850734,40392.005
@@ -3980,7 +3792,6 @@ Switzerland,756,Europe,Western Europe,1993,5.91431011712117,40751.371
 Switzerland,756,Europe,Western Europe,1992,6.28011768390238,42793.89
 Switzerland,756,Europe,Western Europe,1991,6.33618897343396,42705.882
 Switzerland,756,Europe,Western Europe,1990,6.3846345176448,42610.54
-Syrian Arab Republic,760,Asia,Western Asia,2011,2.64492519226542,57670.909
 Syrian Arab Republic,760,Asia,Western Asia,2010,2.85966996997629,61576.264
 Syrian Arab Republic,760,Asia,Western Asia,2009,2.94576371133154,61953.965
 Syrian Arab Republic,760,Asia,Western Asia,2008,3.31968382471768,67542.473
@@ -4002,7 +3813,6 @@ Syrian Arab Republic,760,Asia,Western Asia,1993,3.47402339438441,47117.283
 Syrian Arab Republic,760,Asia,Western Asia,1992,3.36949050497575,44436.706
 Syrian Arab Republic,760,Asia,Western Asia,1991,3.36968133532819,43193.593
 Syrian Arab Republic,760,Asia,Western Asia,1990,3.00774635167588,37451.071
-Tajikistan,762,Asia,Central Asia,2011,0.356149254304305,2783.253
 Tajikistan,762,Asia,Central Asia,2010,0.371636272004107,2834.591
 Tajikistan,762,Asia,Central Asia,2009,0.381107436747019,2838.258
 Tajikistan,762,Asia,Central Asia,2008,0.408270393932746,2970.27
@@ -4022,7 +3832,6 @@ Tajikistan,762,Asia,Central Asia,1995,0.423481371221905,2449.556
 Tajikistan,762,Asia,Central Asia,1994,0.412830894479739,2354.214
 Tajikistan,762,Asia,Central Asia,1993,0.920537096142161,5170.47
 Tajikistan,762,Asia,Central Asia,1992,1.30727003351495,7220.323
-Thailand,764,Asia,South-Eastern Asia,2011,4.55673812128911,303370.91
 Thailand,764,Asia,South-Eastern Asia,2010,4.4899302608662,298141.768
 Thailand,764,Asia,South-Eastern Asia,2009,4.21567037962525,279403.398
 Thailand,764,Asia,South-Eastern Asia,2008,4.0001869447222,264753.733
@@ -4044,7 +3853,6 @@ Thailand,764,Asia,South-Eastern Asia,1993,2.25136486188335,130735.884
 Thailand,764,Asia,South-Eastern Asia,1992,1.99767263839211,115187.804
 Thailand,764,Asia,South-Eastern Asia,1991,1.84028696395887,105235.566
 Thailand,764,Asia,South-Eastern Asia,1990,1.6936861260449,95833.378
-The former Yugoslav Republic of Macedonia,807,Europe,Southern Europe,2011,4.43758086211732,9336.182
 The former Yugoslav Republic of Macedonia,807,Europe,Southern Europe,2010,4.09224456478307,8602.782
 The former Yugoslav Republic of Macedonia,807,Europe,Southern Europe,2009,4.14086352293057,8698.124
 The former Yugoslav Republic of Macedonia,807,Europe,Southern Europe,2008,4.47985843129949,9402.188
@@ -4064,7 +3872,6 @@ The former Yugoslav Republic of Macedonia,807,Europe,Southern Europe,1995,5.5107
 The former Yugoslav Republic of Macedonia,807,Europe,Southern Europe,1994,5.31745926939113,10469.285
 The former Yugoslav Republic of Macedonia,807,Europe,Southern Europe,1993,5.22533866869059,10340.94
 The former Yugoslav Republic of Macedonia,807,Europe,Southern Europe,1992,5.40736598631264,10777.313
-Timor-Leste,626,Asia,South-Eastern Asia,2011,0.167245435298775,183.35
 Timor-Leste,626,Asia,South-Eastern Asia,2010,0.169855018759554,183.35
 Timor-Leste,626,Asia,South-Eastern Asia,2009,0.172290500483466,183.35
 Timor-Leste,626,Asia,South-Eastern Asia,2008,0.181561618062088,190.684
@@ -4074,7 +3881,6 @@ Timor-Leste,626,Asia,South-Eastern Asia,2005,0.1767905192649,176.016
 Timor-Leste,626,Asia,South-Eastern Asia,2004,0.182025197856848,176.016
 Timor-Leste,626,Asia,South-Eastern Asia,2003,0.172866251182544,161.348
 Timor-Leste,626,Asia,South-Eastern Asia,2002,0.179401734775681,161.348
-Togo,768,Africa,Western Africa,2011,0.324076866599591,2097.524
 Togo,768,Africa,Western Africa,2010,0.272727431306052,1719.823
 Togo,768,Africa,Western Africa,2009,0.273930308243674,1683.153
 Togo,768,Africa,Western Africa,2008,0.289073336394159,1730.824
@@ -4096,7 +3902,6 @@ Togo,768,Africa,Western Africa,1993,0.211984944231635,865.412
 Togo,768,Africa,Western Africa,1992,0.209786609203074,836.076
 Togo,768,Africa,Western Africa,1991,0.216942286936597,843.41
 Togo,768,Africa,Western Africa,1990,0.204281495257421,773.737
-Tonga,776,Oceania,Polynesia,2011,0.982037989938213,102.676
 Tonga,776,Oceania,Polynesia,2010,1.12724548022056,117.344
 Tonga,776,Oceania,Polynesia,2009,1.27477621020308,132.012
 Tonga,776,Oceania,Polynesia,2008,1.17546893061478,121.011
@@ -4118,7 +3923,6 @@ Tonga,776,Oceania,Polynesia,1993,0.882597321054835,84.341
 Tonga,776,Oceania,Polynesia,1992,0.729995913791478,69.673
 Tonga,776,Oceania,Polynesia,1991,1.00022030822169,95.342
 Tonga,776,Oceania,Polynesia,1990,0.809194556822361,77.007
-Trinidad and Tobago,780,Americas,Caribbean,2011,37.1876396200684,49574.173
 Trinidad and Tobago,780,Americas,Caribbean,2010,38.3378410429977,50916.295
 Trinidad and Tobago,780,Americas,Caribbean,2009,36.5447275575833,48331.06
 Trinidad and Tobago,780,Americas,Caribbean,2008,35.4262914856557,46636.906
@@ -4140,7 +3944,6 @@ Trinidad and Tobago,780,Americas,Caribbean,1993,13.5168706455268,16820.529
 Trinidad and Tobago,780,Americas,Caribbean,1992,16.9587704426555,20986.241
 Trinidad and Tobago,780,Americas,Caribbean,1991,17.1139745639098,21048.58
 Trinidad and Tobago,780,Americas,Caribbean,1990,13.8798751784101,16959.875
-Tunisia,788,Africa,Northern Africa,2011,2.3847444353814,25643.331
 Tunisia,788,Africa,Northern Africa,2010,2.51541183408689,26743.431
 Tunisia,788,Africa,Northern Africa,2009,2.35798420428335,24785.253
 Tunisia,788,Africa,Northern Africa,2008,2.38903772905828,24825.59
@@ -4162,7 +3965,6 @@ Tunisia,788,Africa,Northern Africa,1993,1.90281357881164,16501.5
 Tunisia,788,Africa,Northern Africa,1992,1.76764268994392,15023.699
 Tunisia,788,Africa,Northern Africa,1991,1.86186501094984,15489.408
 Tunisia,788,Africa,Northern Africa,1990,1.6308191140292,13267.206
-Turkey,792,Asia,Western Asia,2011,4.39154775921226,320840.498
 Turkey,792,Asia,Western Asia,2010,4.13103076725122,298002.422
 Turkey,792,Asia,Western Asia,2009,3.90006612757695,277844.923
 Turkey,792,Asia,Western Asia,2008,4.05429264324232,285274.265
@@ -4184,7 +3986,6 @@ Turkey,792,Asia,Western Asia,1993,2.8059985217165,159136.799
 Turkey,792,Asia,Western Asia,1992,2.74312946255208,153108.251
 Turkey,792,Asia,Western Asia,1991,2.70654718316014,148619.843
 Turkey,792,Asia,Western Asia,1990,2.70135492240382,145858.592
-Turkmenistan,795,Asia,Central Asia,2011,12.1836761269775,62217.989
 Turkmenistan,795,Asia,Central Asia,2010,11.3581110254969,57267.539
 Turkmenistan,795,Asia,Central Asia,2009,10.1106567995498,50340.576
 Turkmenistan,795,Asia,Central Asia,2008,11.557567061437,56834.833
@@ -4204,7 +4005,6 @@ Turkmenistan,795,Asia,Central Asia,1995,8.26649100646847,34620.147
 Turkmenistan,795,Asia,Central Asia,1994,8.3502238547952,34198.442
 Turkmenistan,795,Asia,Central Asia,1993,7.12562886452799,28444.919
 Turkmenistan,795,Asia,Central Asia,1992,7.46440894874848,28976.634
-Turks and Caicos Islands,796,Americas,Caribbean,2011,,190.684
 Turks and Caicos Islands,796,Americas,Caribbean,2010,,190.684
 Turks and Caicos Islands,796,Americas,Caribbean,2009,,179.683
 Turks and Caicos Islands,796,Americas,Caribbean,2008,,179.683
@@ -4221,7 +4021,6 @@ Turks and Caicos Islands,796,Americas,Caribbean,1998,,14.668
 Turks and Caicos Islands,796,Americas,Caribbean,1997,,11.001
 Turks and Caicos Islands,796,Americas,Caribbean,1996,,11.001
 Turks and Caicos Islands,796,Americas,Caribbean,1995,,11.001
-Uganda,800,Africa,Eastern Africa,2011,0.108085953183652,3799.012
 Uganda,800,Africa,Eastern Africa,2010,0.105627754767653,3589.993
 Uganda,800,Africa,Eastern Africa,2009,0.102765131847516,3377.307
 Uganda,800,Africa,Eastern Africa,2008,0.0994673838995615,3160.954
@@ -4243,7 +4042,6 @@ Uganda,800,Africa,Eastern Africa,1993,0.0428404143370556,832.409
 Uganda,800,Africa,Eastern Africa,1992,0.0446946633142507,839.743
 Uganda,800,Africa,Eastern Africa,1991,0.0456453879537423,828.742
 Uganda,800,Africa,Eastern Africa,1990,0.0457987096431282,803.073
-Ukraine,804,Europe,Eastern Europe,2011,6.24914150842698,286227.685
 Ukraine,804,Europe,Eastern Europe,2010,6.61227414331571,304496.679
 Ukraine,804,Europe,Eastern Europe,2009,5.62089437409647,260063.64
 Ukraine,804,Europe,Eastern Europe,2008,6.6946456355659,311042.274
@@ -4263,7 +4061,6 @@ Ukraine,804,Europe,Eastern Europe,1995,8.71887222560039,445943.87
 Ukraine,804,Europe,Eastern Europe,1994,8.69831993250892,447010.967
 Ukraine,804,Europe,Eastern Europe,1993,10.5927150829095,546111.642
 Ukraine,804,Europe,Eastern Europe,1992,12.4242409327801,641680.996
-United Arab Emirates,784,Asia,Western Asia,2011,19.9979799657057,178483.891
 United Arab Emirates,784,Asia,Western Asia,2010,19.8537977148,167596.568
 United Arab Emirates,784,Asia,Western Asia,2009,21.0670372654978,162602.114
 United Arab Emirates,784,Asia,Western Asia,2008,23.3775035724083,158935.114
@@ -4285,7 +4082,6 @@ United Arab Emirates,784,Asia,Western Asia,1993,31.1060267978161,65980.331
 United Arab Emirates,784,Asia,Western Asia,1992,28.8809151818426,58136.618
 United Arab Emirates,784,Asia,Western Asia,1991,29.8798685745613,57010.849
 United Arab Emirates,784,Asia,Western Asia,1990,28.7899909105905,52009.061
-United Kingdom,826,Europe,Northern Europe,2011,7.18016720125706,448235.745
 United Kingdom,826,Europe,Northern Europe,2010,7.93009535762938,492192.074
 United Kingdom,826,Europe,Northern Europe,2009,7.66987419951804,473237.351
 United Kingdom,826,Europe,Northern Europe,2008,8.50294654986283,521513.406
@@ -4307,7 +4103,6 @@ United Kingdom,826,Europe,Northern Europe,1993,9.45934776707872,545561.592
 United Kingdom,826,Europe,Northern Europe,1992,9.66949955207095,556192.225
 United Kingdom,826,Europe,Northern Europe,1991,9.88024315244736,566804.523
 United Kingdom,826,Europe,Northern Europe,1990,9.71611646968098,555902.532
-United Republic of Tanzania,834,Africa,Eastern Africa,2011,0.157503158208201,7300.997
 United Republic of Tanzania,834,Africa,Eastern Africa,2010,0.15231151440198,6849.956
 United Republic of Tanzania,834,Africa,Eastern Africa,2009,0.14184076939759,6189.896
 United Republic of Tanzania,834,Africa,Eastern Africa,2008,0.149697181763427,6340.243
@@ -4329,7 +4124,6 @@ United Republic of Tanzania,834,Africa,Eastern Africa,1993,0.0936380953192726,26
 United Republic of Tanzania,834,Africa,Eastern Africa,1992,0.0867065434003599,2361.548
 United Republic of Tanzania,834,Africa,Eastern Africa,1991,0.0924498136737323,2434.888
 United Republic of Tanzania,834,Africa,Eastern Africa,1990,0.0930965790058346,2372.549
-United States,840,Americas,Northern America,2011,16.8477980904314,5305569.614
 United States,840,Americas,Northern America,2010,17.3223985966295,5408869.004
 United States,840,Americas,Northern America,2009,17.0412619596469,5274132.423
 United States,840,Americas,Northern America,2008,18.3346919026539,5622464.42
@@ -4351,7 +4145,6 @@ United States,840,Americas,Northern America,1993,19.1883970937812,5032931.831
 United States,840,Americas,Northern America,1992,18.914153026505,4911103.09
 United States,840,Americas,Northern America,1991,18.7585194984469,4822383.692
 United States,840,Americas,Northern America,1990,18.952578209087,4823557.132
-Uruguay,858,Americas,South America,2011,2.29764213595091,7774.04
 Uruguay,858,Americas,South America,2010,1.91398411972543,6453.92
 Uruguay,858,Americas,South America,2009,2.40288641546278,8074.734
 Uruguay,858,Americas,South America,2008,2.47248079816107,8280.086
@@ -4373,7 +4166,6 @@ Uruguay,858,Americas,South America,1993,1.40547291626742,4466.406
 Uruguay,858,Americas,South America,1992,1.63899593521578,5170.47
 Uruguay,858,Americas,South America,1991,1.45418488755837,4554.414
 Uruguay,858,Americas,South America,1990,1.28406390989411,3993.363
-Uzbekistan,860,Asia,Central Asia,2011,4.08008231532069,114861.441
 Uzbekistan,860,Asia,Central Asia,2010,3.79875268597266,105488.589
 Uzbekistan,860,Asia,Central Asia,2009,3.96555315443658,108627.541
 Uzbekistan,860,Asia,Central Asia,2008,4.48034796027118,121073.339
@@ -4393,7 +4185,6 @@ Uzbekistan,860,Asia,Central Asia,1995,4.43777515807878,101850.925
 Uzbekistan,860,Asia,Central Asia,1994,4.9958606225272,112397.217
 Uzbekistan,860,Asia,Central Asia,1993,5.44727208447705,119965.905
 Uzbekistan,860,Asia,Central Asia,1992,5.37339041065515,115712.185
-Vanuatu,548,Oceania,Melanesia,2011,0.591505430601627,143.013
 Vanuatu,548,Oceania,Melanesia,2010,0.49659118320433,117.344
 Vanuatu,548,Oceania,Melanesia,2009,0.508350192563455,117.344
 Vanuatu,548,Oceania,Melanesia,2008,0.406724993123275,91.675
@@ -4415,7 +4206,6 @@ Vanuatu,548,Oceania,Melanesia,1993,0.413017632998361,66.006
 Vanuatu,548,Oceania,Melanesia,1992,0.425181329794772,66.006
 Vanuatu,548,Oceania,Melanesia,1991,0.437766532474681,66.006
 Vanuatu,548,Oceania,Melanesia,1990,0.475152250857583,69.673
-Venezuela,862,Americas,South America,2011,6.4004575157306,188817.497
 Venezuela,862,Americas,South America,2010,6.8006070112666,197511.954
 Venezuela,862,Americas,South America,2009,6.51971494284723,186353.273
 Venezuela,862,Americas,South America,2008,6.60404767201729,185707.881
@@ -4437,7 +4227,6 @@ Venezuela,862,Americas,South America,1993,5.87856492514128,124391.974
 Venezuela,862,Americas,South America,1992,5.1215190230683,105972.633
 Venezuela,862,Americas,South America,1991,5.70957488948535,115440.827
 Venezuela,862,Americas,South America,1990,6.18832694908905,122162.438
-Viet Nam,704,Asia,South-Eastern Asia,2011,1.92640556266927,173210.745
 Viet Nam,704,Asia,South-Eastern Asia,2010,1.71985474207629,153148.588
 Viet Nam,704,Asia,South-Eastern Asia,2009,1.59601814952443,140768.796
 Viet Nam,704,Asia,South-Eastern Asia,2008,1.45892277396647,127464.92
@@ -4459,7 +4248,6 @@ Viet Nam,704,Asia,South-Eastern Asia,1993,0.313601395579737,23006.758
 Viet Nam,704,Asia,South-Eastern Asia,1992,0.298718478055903,21477.619
 Viet Nam,704,Asia,South-Eastern Asia,1991,0.304703019399196,21451.95
 Viet Nam,704,Asia,South-Eastern Asia,1990,0.310665830037761,21407.946
-Wallis and Futuna Islands,876,Oceania,Polynesia,2011,,25.669
 Wallis and Futuna Islands,876,Oceania,Polynesia,2010,,29.336
 Wallis and Futuna Islands,876,Oceania,Polynesia,2009,,29.336
 Wallis and Futuna Islands,876,Oceania,Polynesia,2008,,22.002
@@ -4470,7 +4258,6 @@ Wallis and Futuna Islands,876,Oceania,Polynesia,2004,,25.669
 Wallis and Futuna Islands,876,Oceania,Polynesia,2003,,25.669
 Wallis and Futuna Islands,876,Oceania,Polynesia,2002,,25.669
 Wallis and Futuna Islands,876,Oceania,Polynesia,2001,,14.668
-Yemen,887,Asia,Western Asia,2011,0.956709702960916,22295.36
 Yemen,887,Asia,Western Asia,2010,1.12975714808869,25716.671
 Yemen,887,Asia,Western Asia,2009,1.05970334632276,23556.808
 Yemen,887,Asia,Western Asia,2008,1.01814314335646,22097.342
@@ -4491,7 +4278,6 @@ Yemen,887,Asia,Western Asia,1994,0.789603465233748,11367.7
 Yemen,887,Asia,Western Asia,1993,0.687086972102147,9431.524
 Yemen,887,Asia,Western Asia,1992,1.10283134939121,14381.974
 Yemen,887,Asia,Western Asia,1991,0.816333634595963,10109.919
-Zambia,894,Africa,Eastern Africa,2011,0.223509065266929,3047.277
 Zambia,894,Africa,Eastern Africa,2010,0.202258154942296,2673.243
 Zambia,894,Africa,Eastern Africa,2009,0.193857309194808,2486.226
 Zambia,894,Africa,Eastern Africa,2008,0.173392069876299,2159.863
@@ -4513,7 +4299,6 @@ Zambia,894,Africa,Eastern Africa,1993,0.296910456986049,2500.894
 Zambia,894,Africa,Eastern Africa,1992,0.29854741733378,2456.89
 Zambia,894,Africa,Eastern Africa,1991,0.300632253146088,2416.553
 Zambia,894,Africa,Eastern Africa,1990,0.311796036874678,2445.889
-Zimbabwe,716,Africa,Eastern Africa,2011,0.738135817919327,9860.563
 Zimbabwe,716,Africa,Eastern Africa,2010,0.690385347440364,9028.154
 Zimbabwe,716,Africa,Eastern Africa,2009,0.639289426777329,8239.749
 Zimbabwe,716,Africa,Eastern Africa,2008,0.60093400826859,7682.365
