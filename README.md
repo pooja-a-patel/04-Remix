@@ -52,6 +52,9 @@ My redesign would use a different color scale, one that is accessible. Also, whe
 - **Accessible Color Scale for Choropleth Map**: I utilized two color palettes and tested them with diffrent color blindness traits to ensure that the colors used in thr chart are accessible.  
 
 ## Resources
+[Basic Choropleth Map D3](https://www.d3-graph-gallery.com/graph/choropleth_basic.html)  
+[Simple D3 Bar Chart](https://bl.ocks.org/d3noob/8952219)  
+[D3 Donut Chart](https://www.d3-graph-gallery.com/donut)  
 [Color Scheme/Accessibility](https://davidmathlogic.com/colorblind/#%23648FFF-%23785EF0-%23DC267F-%23FE6100-%23FFB000)
 
 |![map](https://github.com/pooja-a-patel/04-Remix/blob/main/img/MapPalette.PNG) | ![donut](https://github.com/pooja-a-patel/04-Remix/blob/main/img/DonutPalette.PNG) |
